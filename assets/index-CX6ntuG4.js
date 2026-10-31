@@ -426,6 +426,39 @@ Error generating stack: `+e.message+`
             "service": "Mytí oken a úklid kanceláří"
           }
         ]
+      },
+      "personalMessage": {
+        "title": "Poděkování stálým zákazníkům",
+        "eyebrow": "Osobní slovo Aleše Zemana",
+        "paragraphs": [
+          "Rád bych poděkoval všem, kteří se na mě s důvěrou obracejí opakovaně. Vážím si toho, že mi svěřujete péči o své domovy, pracoviště i další prostory. Vaše důvěra je pro mě velkým závazkem.",
+          "S řadou z vás se známe už mnoho let. Za tu dobu jsme spolu nemluvili jen o práci — sdíleli jsme i osobní radosti, starosti a okamžiky, které život přináší. Někteří z vás mi naslouchali a nabídli pomoc i ve chvílích, kdy jsem ji potřeboval já. Toho si nesmírně vážím.",
+          "Roky ubíhají, ale stále se chci snažit, abyste byli s mou prací spokojeni a měli důvod se na mě znovu obracet. Děkuji vám za přízeň, otevřenost a za vztahy, které během naší spolupráce vznikly."
+        ],
+        "signature": "Aleš Zeman",
+        "sourceUrl": "https://uklidove-firmy-az.estranky.cz/",
+        "editorialNote": "Věrná nová redakční formulace osobního poděkování z původní domovské stránky; nejde o doslovný přepis."
+      },
+      "personalValues": {
+        "title": "Co je pro mě důležité",
+        "items": [
+          {
+            "title": "Důvěra",
+            "text": "Dlouhodobá důvěra zákazníků pro mě znamená víc než jednorázovou zakázku."
+          },
+          {
+            "title": "Poctivá práce",
+            "text": "U každé zakázky se snažím najít nejvhodnější postup, vysvětlit možnosti a odvést práci co nejlépe."
+          },
+          {
+            "title": "Otevřenost",
+            "text": "Před čištěním rád upozorním na opotřebení materiálu a na to, jaký výsledek je reálné očekávat."
+          },
+          {
+            "title": "Pomoc druhým",
+            "text": "Prosím, pomáhejme těm, kteří to opravdu potřebují."
+          }
+        ]
       }
     },
     "en": {
@@ -799,6 +832,39 @@ Error generating stack: `+e.message+`
       },
       "footer": {
         "copyright": "Aleš Zeman"
+      },
+      "personalMessage": {
+        "title": "A thank-you to my loyal customers",
+        "eyebrow": "A personal note from Aleš Zeman",
+        "paragraphs": [
+          "I would like to thank everyone who has returned to me and entrusted me with cleaning their homes and workplaces over the years. Your trust means a great deal to me, and I take that responsibility seriously.",
+          "I have known many of you for a long time. Over the years we have shared more than conversations about cleaning: we have talked about life's joys and difficulties. Some of you have also listened to me and offered help when I needed it. I am deeply grateful for that.",
+          "Time passes, but I will continue doing my best to earn your satisfaction and your trust. Thank you for your loyalty, your openness and the personal connections our work has made possible."
+        ],
+        "signature": "Aleš Zeman",
+        "sourceUrl": "https://uklidove-firmy-az.estranky.cz/",
+        "editorialNote": "Faithful English adaptation of the personal thank-you on the original website, not a word-for-word transcript."
+      },
+      "personalValues": {
+        "title": "What matters to me",
+        "items": [
+          {
+            "title": "Trust",
+            "text": "Long-standing customer relationships matter more to me than a single job."
+          },
+          {
+            "title": "Care in my work",
+            "text": "I try to choose the right method for every job, explain the possibilities and deliver my best work."
+          },
+          {
+            "title": "Openness",
+            "text": "Before cleaning, I explain any wear and tear and what results can realistically be expected."
+          },
+          {
+            "title": "Helping others",
+            "text": "Please help those who really need it."
+          }
+        ]
       }
     }
   },
@@ -892,8 +958,14 @@ Error generating stack: `+e.message+`
         "Validity and terms of the satisfaction guarantee"
       ],
       "assetStatus": "Photos from the original site have not been copied; approvedImages stays empty until rights and source files are confirmed.",
-      "pricingDecision": "2026-10-31: Client-facing proposal uses the higher values of the historical published ranges, a CZK 1,500 one-off minimum and the highest published Kladno transport charge. These are the proposed production rates, amendable during customer review."
+      "pricingDecision": "2026-10-31: Client-facing proposal uses the higher values of the historical published ranges, a CZK 1,500 one-off minimum and the highest published Kladno transport charge. These are the proposed production rates, amendable during customer review.",
+      "personalCopy": {
+        "sourceSection": "Homepage: Poděkování stálým zákazníkům, signed Aleš Zeman",
+        "sourceUrl": "https://uklidove-firmy-az.estranky.cz/",
+        "handling": "Separate CZ/EN personalMessage and personalValues; faithful editorial adaptation, not verbatim reproduction; preserve personal first-person tone.",
+        "integrationRequired": "Website frontend should render personalMessage and personalValues as dedicated sections."
+      }
     }
   }
 }
-`),Bu=zu.public.cs,Vu=`tel:${zu.business.phone.replace(/\s/g,``)}`;function Hu(){return(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-7xl font-bold text-foreground`,children:`404`}),(0,V.jsx)(`h2`,{className:`mt-4 text-xl font-semibold text-foreground`,children:`Page not found`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`The page you're looking for doesn't exist or has been moved.`}),(0,V.jsx)(`div`,{className:`mt-6`,children:(0,V.jsx)($c,{to:`/`,className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Go home`})})]})})}function Uu({error:e,reset:t}){console.error(e);let n=rc();return(0,B.useEffect)(()=>{Iu(e,{boundary:`tanstack_root_error_component`})},[e]),(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-xl font-semibold tracking-tight text-foreground`,children:`This page didn't load`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`Something went wrong on our end. You can try refreshing or head back home.`}),(0,V.jsxs)(`div`,{className:`mt-6 flex flex-wrap justify-center gap-2`,children:[(0,V.jsx)(`button`,{onClick:()=>{n.invalidate(),t()},className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Try again`}),(0,V.jsx)(`a`,{href:`/`,className:`inline-flex items-center justify-center rounded-md border border-input bg-background px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-accent`,children:`Go home`})]})]})})}var Wu=rl()({head:()=>({meta:[{charSet:`utf-8`},{name:`viewport`,content:`width=device-width, initial-scale=1`},{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{name:`author`,content:zu.business.name},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`}],links:[{rel:`stylesheet`,href:Fu},{rel:`preconnect`,href:`https://fonts.googleapis.com`},{rel:`preconnect`,href:`https://fonts.gstatic.com`,crossOrigin:`anonymous`},{rel:`stylesheet`,href:`https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap`}]}),shellComponent:Z,component:Gu,notFoundComponent:Hu,errorComponent:Uu});function Z({children:e}){return(0,V.jsxs)(`html`,{lang:`cs`,children:[(0,V.jsx)(`head`,{children:(0,V.jsx)(jl,{})}),(0,V.jsxs)(`body`,{children:[e,(0,V.jsx)(Nl,{})]})]})}function Gu(){let{queryClient:e}=Wu.useRouteContext();return(0,V.jsx)(Pu,{client:e,children:(0,V.jsx)(gl,{})})}var Ku=`modulepreload`,qu=function(e){return`/`+e},Ju={},Yu=function(e,t,n){let r=Promise.resolve();if(t&&t.length>0){let e=document.getElementsByTagName(`link`),i=document.querySelector(`meta[property=csp-nonce]`),a=i?.nonce||i?.getAttribute(`nonce`);function o(e){return Promise.all(e.map(e=>Promise.resolve(e).then(e=>({status:`fulfilled`,value:e}),e=>({status:`rejected`,reason:e}))))}function s(e){return import.meta.resolve?import.meta.resolve(e):new URL(e,import.meta.url).href}r=o(t.map(t=>{if(t=qu(t,n),t=s(t),t in Ju)return;Ju[t]=!0;let r=t.endsWith(`.css`);for(let n=e.length-1;n>=0;n--){let i=e[n];if(i.href===t&&(!r||i.rel===`stylesheet`))return}let i=document.createElement(`link`);if(i.rel=r?`stylesheet`:Ku,r||(i.as=`script`),i.crossOrigin=``,i.href=t,a&&i.setAttribute(`nonce`,a),document.head.appendChild(i),r)return new Promise((e,n)=>{i.addEventListener(`load`,e),i.addEventListener(`error`,()=>n(Error(`Unable to preload CSS for ${t}`)))})}))}function i(e){let t=new Event(`vite:preloadError`,{cancelable:!0});if(t.payload=e,window.dispatchEvent(t),!t.defaultPrevented)throw e}return r.then(t=>{for(let e of t||[])e.status===`rejected`&&i(e.reason);return e().catch(i)})},Xu={IndexRoute:ol(`/`)({head:()=>({meta:[{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`},{name:`robots`,content:`noindex, nofollow`}]}),component:sl(()=>Yu(()=>import(`./routes-CCq0Hs2x.js`),[]),`component`)}).update({id:`/`,path:`/`,getParentRoute:()=>Wu})},Zu=Wu._addFileChildren(Xu),Qu=()=>Sl({routeTree:Zu,context:{queryClient:new Mu},scrollRestoration:!0,defaultPreloadStaleTime:0});async function $u(){let e=await Qu(),t;if(Bl){let n=await Bl.getOptions();n.serializationAdapters=n.serializationAdapters??[],window.__TSS_START_OPTIONS__=n,t=n.serializationAdapters,e.options.defaultSsr=n.defaultSsr}else t=[],window.__TSS_START_OPTIONS__={serializationAdapters:t};return t.push(Vs),e.options.serializationAdapters&&t.push(...e.options.serializationAdapters),e.update({basepath:``,serializationAdapters:t}),e.stores.ids.get().length||await qn(e),e}var ed=$u;function td(){return ed().finally(()=>window.$_TSR?.h())}var nd;function rd(){return nd||=td(),(0,V.jsx)(qs,{promise:nd,children:e=>(0,V.jsx)(Tl,{router:e})})}var id=g();(0,B.startTransition)(()=>{(0,id.hydrateRoot)(document,(0,V.jsx)(B.StrictMode,{children:(0,V.jsx)(rd,{})}))});export{u as a,Gs as i,Vu as n,c as o,zu as r,Bu as t};
+`),Bu=zu.public.cs,Vu=`tel:${zu.business.phone.replace(/\s/g,``)}`;function Hu(){return(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-7xl font-bold text-foreground`,children:`404`}),(0,V.jsx)(`h2`,{className:`mt-4 text-xl font-semibold text-foreground`,children:`Page not found`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`The page you're looking for doesn't exist or has been moved.`}),(0,V.jsx)(`div`,{className:`mt-6`,children:(0,V.jsx)($c,{to:`/`,className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Go home`})})]})})}function Uu({error:e,reset:t}){console.error(e);let n=rc();return(0,B.useEffect)(()=>{Iu(e,{boundary:`tanstack_root_error_component`})},[e]),(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-xl font-semibold tracking-tight text-foreground`,children:`This page didn't load`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`Something went wrong on our end. You can try refreshing or head back home.`}),(0,V.jsxs)(`div`,{className:`mt-6 flex flex-wrap justify-center gap-2`,children:[(0,V.jsx)(`button`,{onClick:()=>{n.invalidate(),t()},className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Try again`}),(0,V.jsx)(`a`,{href:`/`,className:`inline-flex items-center justify-center rounded-md border border-input bg-background px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-accent`,children:`Go home`})]})]})})}var Wu=rl()({head:()=>({meta:[{charSet:`utf-8`},{name:`viewport`,content:`width=device-width, initial-scale=1`},{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{name:`author`,content:zu.business.name},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`}],links:[{rel:`stylesheet`,href:Fu},{rel:`preconnect`,href:`https://fonts.googleapis.com`},{rel:`preconnect`,href:`https://fonts.gstatic.com`,crossOrigin:`anonymous`},{rel:`stylesheet`,href:`https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap`}]}),shellComponent:Z,component:Gu,notFoundComponent:Hu,errorComponent:Uu});function Z({children:e}){return(0,V.jsxs)(`html`,{lang:`cs`,children:[(0,V.jsx)(`head`,{children:(0,V.jsx)(jl,{})}),(0,V.jsxs)(`body`,{children:[e,(0,V.jsx)(Nl,{})]})]})}function Gu(){let{queryClient:e}=Wu.useRouteContext();return(0,V.jsx)(Pu,{client:e,children:(0,V.jsx)(gl,{})})}var Ku=`modulepreload`,qu=function(e){return`/`+e},Ju={},Yu=function(e,t,n){let r=Promise.resolve();if(t&&t.length>0){let e=document.getElementsByTagName(`link`),i=document.querySelector(`meta[property=csp-nonce]`),a=i?.nonce||i?.getAttribute(`nonce`);function o(e){return Promise.all(e.map(e=>Promise.resolve(e).then(e=>({status:`fulfilled`,value:e}),e=>({status:`rejected`,reason:e}))))}function s(e){return import.meta.resolve?import.meta.resolve(e):new URL(e,import.meta.url).href}r=o(t.map(t=>{if(t=qu(t,n),t=s(t),t in Ju)return;Ju[t]=!0;let r=t.endsWith(`.css`);for(let n=e.length-1;n>=0;n--){let i=e[n];if(i.href===t&&(!r||i.rel===`stylesheet`))return}let i=document.createElement(`link`);if(i.rel=r?`stylesheet`:Ku,r||(i.as=`script`),i.crossOrigin=``,i.href=t,a&&i.setAttribute(`nonce`,a),document.head.appendChild(i),r)return new Promise((e,n)=>{i.addEventListener(`load`,e),i.addEventListener(`error`,()=>n(Error(`Unable to preload CSS for ${t}`)))})}))}function i(e){let t=new Event(`vite:preloadError`,{cancelable:!0});if(t.payload=e,window.dispatchEvent(t),!t.defaultPrevented)throw e}return r.then(t=>{for(let e of t||[])e.status===`rejected`&&i(e.reason);return e().catch(i)})},Xu={IndexRoute:ol(`/`)({head:()=>({meta:[{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`},{name:`robots`,content:`noindex, nofollow`}]}),component:sl(()=>Yu(()=>import(`./routes-CTWJ4YFz.js`),[]),`component`)}).update({id:`/`,path:`/`,getParentRoute:()=>Wu})},Zu=Wu._addFileChildren(Xu),Qu=()=>Sl({routeTree:Zu,context:{queryClient:new Mu},scrollRestoration:!0,defaultPreloadStaleTime:0});async function $u(){let e=await Qu(),t;if(Bl){let n=await Bl.getOptions();n.serializationAdapters=n.serializationAdapters??[],window.__TSS_START_OPTIONS__=n,t=n.serializationAdapters,e.options.defaultSsr=n.defaultSsr}else t=[],window.__TSS_START_OPTIONS__={serializationAdapters:t};return t.push(Vs),e.options.serializationAdapters&&t.push(...e.options.serializationAdapters),e.update({basepath:``,serializationAdapters:t}),e.stores.ids.get().length||await qn(e),e}var ed=$u;function td(){return ed().finally(()=>window.$_TSR?.h())}var nd;function rd(){return nd||=td(),(0,V.jsx)(qs,{promise:nd,children:e=>(0,V.jsx)(Tl,{router:e})})}var id=g();(0,B.startTransition)(()=>{(0,id.hydrateRoot)(document,(0,V.jsx)(B.StrictMode,{children:(0,V.jsx)(rd,{})}))});export{u as a,Gs as i,Vu as n,c as o,zu as r,Bu as t};
