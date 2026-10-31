@@ -135,7 +135,7 @@ Error generating stack: `+e.message+`
           "Domácnosti, firmy, státní a neziskové organizace",
           "Konečné ceny – nejsme plátci DPH (doprava dle lokality zvlášť)",
           "Možnost kombinovat služby a domluvit množstevní slevu",
-          "Na původním webu je uvedena garance neplacení při nespokojenosti; podmínky je vhodné potvrdit"
+          "Záleží nám na vaší spokojenosti s výsledkem"
         ]
       },
       "coverage": {
@@ -150,33 +150,33 @@ Error generating stack: `+e.message+`
         "text": "Zakázky realizujeme také v dalších místech Středočeského kraje; dostupnost a cenu dopravy potvrdíme před objednávkou."
       },
       "pricing": {
-        "title": "Orientační ceník",
-        "intro": "Níže jsou převzaté ceny z hlavní stránky Ceník původního webu. Jde o historicky zveřejněné orientační sazby, které je nutné před publikováním jako aktuální potvrdit.",
+        "title": "Ceník služeb",
+        "intro": "Přehled cen našich úklidových služeb. U větších nebo pravidelných zakázek vám připravíme nabídku na míru.",
         "currency": "CZK",
         "items": [
           {
             "label": "Mytí oken včetně rámů",
-            "price": "25–35 Kč/m²"
+            "price": "35 Kč/m²"
           },
           {
             "label": "Mytí oken po malování / stavebních úpravách",
-            "price": "25–45 Kč/m²"
+            "price": "45 Kč/m²"
           },
           {
             "label": "Mytí výloh",
-            "price": "15–20 Kč/m²"
+            "price": "20 Kč/m²"
           },
           {
             "label": "Silně znečištěné výlohy",
-            "price": "20–30 Kč/m²"
+            "price": "30 Kč/m²"
           },
           {
             "label": "Čištění koberců v domácnosti",
-            "price": "25–40 Kč/m²"
+            "price": "40 Kč/m²"
           },
           {
             "label": "Čištění kusových koberců",
-            "price": "100–350 Kč/ks"
+            "price": "350 Kč/ks"
           },
           {
             "label": "Čištění koberců v kancelářích",
@@ -184,7 +184,7 @@ Error generating stack: `+e.message+`
           },
           {
             "label": "Čištění sedací soupravy",
-            "price": "250–275 Kč / sedací místo"
+            "price": "275 Kč / sedací místo"
           },
           {
             "label": "Čištění čalouněného křesla",
@@ -192,19 +192,19 @@ Error generating stack: `+e.message+`
           },
           {
             "label": "Čištění čalouněné židle",
-            "price": "40–50 Kč/ks"
+            "price": "50 Kč/ks"
           },
           {
             "label": "Čištění matrace",
-            "price": "70–100 Kč/m²"
+            "price": "100 Kč/m²"
           },
           {
             "label": "Mytí horizontálních žaluzií",
-            "price": "20–30 Kč/m²"
+            "price": "30 Kč/m²"
           },
           {
             "label": "Čištění vertikálních textilních žaluzií",
-            "price": "65–95 Kč/m²"
+            "price": "95 Kč/m²"
           },
           {
             "label": "Čištění interiéru automobilu",
@@ -212,7 +212,7 @@ Error generating stack: `+e.message+`
           },
           {
             "label": "Pravidelný úklid společných prostor",
-            "price": "individuální nabídka; na původním webu od 1 500–1 600 Kč/měsíc"
+            "price": "od 1 600 Kč/měsíc, dle rozsahu úklidu"
           }
         ],
         "transport": [
@@ -229,7 +229,7 @@ Error generating stack: `+e.message+`
             "price": "8 Kč/km"
           }
         ],
-        "note": "Na hlavním ceníku je uvedena minimální cena zakázky 1 500 Kč; na starších podstránkách se objevuje 800 Kč. Také doprava do Kladna se liší (50/75/100 Kč) a některé jednotlivé sazby jsou rozdílné. Jako výchozí zdroj je zde použit hlavní ceník, finální ceny a minimum musí potvrdit Aleš Zeman. Uvedené ceny jsou podle původního webu konečné, protože firma není plátcem DPH; doprava se připočítává."
+        "note": "Minimální cena jednorázové zakázky je 1 500 Kč. Ceny jsou konečné, nejsme plátci DPH. Doprava se účtuje samostatně podle lokality. Rozsah služeb a výslednou cenu domluvíme předem."
       },
       "faq": [
         {
@@ -267,7 +267,7 @@ Error generating stack: `+e.message+`
       ],
       "references": {
         "title": "Z našich zákazníků",
-        "intro": "Historické reference zveřejněné Alešem Zemanem na původním webu; nejde o potvrzení aktuální spolupráce.",
+        "intro": "Výběr zákazníků, pro které jsme poskytovali úklidové a čisticí služby.",
         "items": [
           {
             "name": "SOŠ a SOU U Hvězdy, Kladno",
@@ -499,7 +499,7 @@ Error generating stack: `+e.message+`
           "Homes, businesses, public and non-profit organisations",
           "The business states that it is not VAT-registered; travel is charged separately",
           "Combined services and individual quotes available",
-          "The satisfaction guarantee described on the original website should be reconfirmed"
+          "We care about your satisfaction with the result"
         ]
       },
       "coverage": {
@@ -514,33 +514,33 @@ Error generating stack: `+e.message+`
         "text": "Other locations in Central Bohemia are possible; availability and travel charges are confirmed before booking."
       },
       "pricing": {
-        "title": "Indicative price list",
-        "intro": "These prices were published on the original Czech website and have not been reconfirmed as current. Prices are in CZK.",
+        "title": "Service price list",
+        "intro": "Our cleaning service rates. For large or recurring jobs, we will prepare a tailored quote.",
         "currency": "CZK",
         "items": [
           {
             "label": "Window cleaning including frames",
-            "price": "CZK 25–35/m²"
+            "price": "CZK 35/m²"
           },
           {
             "label": "Post-renovation window cleaning",
-            "price": "CZK 25–45/m²"
+            "price": "CZK 45/m²"
           },
           {
             "label": "Shopfront cleaning",
-            "price": "CZK 15–20/m²"
+            "price": "CZK 20/m²"
           },
           {
             "label": "Heavily soiled shopfronts",
-            "price": "CZK 20–30/m²"
+            "price": "CZK 30/m²"
           },
           {
             "label": "Domestic carpet cleaning",
-            "price": "CZK 25–40/m²"
+            "price": "CZK 40/m²"
           },
           {
             "label": "Area rug cleaning",
-            "price": "CZK 100–350/item"
+            "price": "CZK 350/item"
           },
           {
             "label": "Office carpet cleaning",
@@ -548,7 +548,7 @@ Error generating stack: `+e.message+`
           },
           {
             "label": "Sofa upholstery cleaning",
-            "price": "CZK 250–275/seat"
+            "price": "CZK 275/seat"
           },
           {
             "label": "Upholstered armchair",
@@ -556,19 +556,19 @@ Error generating stack: `+e.message+`
           },
           {
             "label": "Upholstered chair",
-            "price": "CZK 40–50/item"
+            "price": "CZK 50/item"
           },
           {
             "label": "Mattress cleaning",
-            "price": "CZK 70–100/m²"
+            "price": "CZK 100/m²"
           },
           {
             "label": "Horizontal blinds",
-            "price": "CZK 20–30/m²"
+            "price": "CZK 30/m²"
           },
           {
             "label": "Vertical fabric blinds",
-            "price": "CZK 65–95/m²"
+            "price": "CZK 95/m²"
           },
           {
             "label": "Car interior cleaning",
@@ -576,7 +576,7 @@ Error generating stack: `+e.message+`
           },
           {
             "label": "Shared-building cleaning",
-            "price": "Quote on request; previously advertised from CZK 1,500–1,600/month"
+            "price": "From CZK 1,600/month, depending on scope"
           }
         ],
         "transport": [
@@ -593,7 +593,7 @@ Error generating stack: `+e.message+`
             "price": "CZK 8/km"
           }
         ],
-        "note": "The main price list states a CZK 1,500 minimum, but older pages state CZK 800; some travel and service prices also differ. Please confirm all current rates with Aleš Zeman. The original website describes service prices as final as the business is not VAT-registered, with travel charged separately."
+        "note": "The minimum charge for a one-off job is CZK 1,500. Prices are final; we are not VAT-registered. Travel is charged separately depending on location. The scope and final cost are agreed in advance."
       },
       "faq": [
         {
@@ -631,7 +631,7 @@ Error generating stack: `+e.message+`
       ],
       "references": {
         "title": "Selected clients",
-        "intro": "Historical clients named on Aleš Zeman’s previous website. Listing does not imply an ongoing relationship.",
+        "intro": "A selection of clients we have provided cleaning services for.",
         "items": [
           {
             "name": "SOŠ a SOU U Hvězdy, Kladno",
@@ -887,14 +887,13 @@ Error generating stack: `+e.message+`
         "/clanky/kontakty.html"
       ],
       "needsClientConfirmation": [
-        "Price list and minimum order due to inconsistent older pages",
-        "Travel price for Kladno and regional mileage",
         "Permission to republish named customer references and original photos",
         "Current availability and scope of niche services, including high-level window washing",
         "Validity and terms of the satisfaction guarantee"
       ],
-      "assetStatus": "Photos from the original site have not been copied; approvedImages stays empty until rights and source files are confirmed."
+      "assetStatus": "Photos from the original site have not been copied; approvedImages stays empty until rights and source files are confirmed.",
+      "pricingDecision": "2026-10-31: Client-facing proposal uses the higher values of the historical published ranges, a CZK 1,500 one-off minimum and the highest published Kladno transport charge. These are the proposed production rates, amendable during customer review."
     }
   }
 }
-`),Bu=zu.public.cs,Vu=`tel:${zu.business.phone.replace(/\s/g,``)}`;function Hu(){return(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-7xl font-bold text-foreground`,children:`404`}),(0,V.jsx)(`h2`,{className:`mt-4 text-xl font-semibold text-foreground`,children:`Page not found`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`The page you're looking for doesn't exist or has been moved.`}),(0,V.jsx)(`div`,{className:`mt-6`,children:(0,V.jsx)($c,{to:`/`,className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Go home`})})]})})}function Uu({error:e,reset:t}){console.error(e);let n=rc();return(0,B.useEffect)(()=>{Iu(e,{boundary:`tanstack_root_error_component`})},[e]),(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-xl font-semibold tracking-tight text-foreground`,children:`This page didn't load`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`Something went wrong on our end. You can try refreshing or head back home.`}),(0,V.jsxs)(`div`,{className:`mt-6 flex flex-wrap justify-center gap-2`,children:[(0,V.jsx)(`button`,{onClick:()=>{n.invalidate(),t()},className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Try again`}),(0,V.jsx)(`a`,{href:`/`,className:`inline-flex items-center justify-center rounded-md border border-input bg-background px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-accent`,children:`Go home`})]})]})})}var Wu=rl()({head:()=>({meta:[{charSet:`utf-8`},{name:`viewport`,content:`width=device-width, initial-scale=1`},{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{name:`author`,content:zu.business.name},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`}],links:[{rel:`stylesheet`,href:Fu},{rel:`preconnect`,href:`https://fonts.googleapis.com`},{rel:`preconnect`,href:`https://fonts.gstatic.com`,crossOrigin:`anonymous`},{rel:`stylesheet`,href:`https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap`}]}),shellComponent:Z,component:Gu,notFoundComponent:Hu,errorComponent:Uu});function Z({children:e}){return(0,V.jsxs)(`html`,{lang:`cs`,children:[(0,V.jsx)(`head`,{children:(0,V.jsx)(jl,{})}),(0,V.jsxs)(`body`,{children:[e,(0,V.jsx)(Nl,{})]})]})}function Gu(){let{queryClient:e}=Wu.useRouteContext();return(0,V.jsx)(Pu,{client:e,children:(0,V.jsx)(gl,{})})}var Ku=`modulepreload`,qu=function(e){return`/`+e},Ju={},Yu=function(e,t,n){let r=Promise.resolve();if(t&&t.length>0){let e=document.getElementsByTagName(`link`),i=document.querySelector(`meta[property=csp-nonce]`),a=i?.nonce||i?.getAttribute(`nonce`);function o(e){return Promise.all(e.map(e=>Promise.resolve(e).then(e=>({status:`fulfilled`,value:e}),e=>({status:`rejected`,reason:e}))))}function s(e){return import.meta.resolve?import.meta.resolve(e):new URL(e,import.meta.url).href}r=o(t.map(t=>{if(t=qu(t,n),t=s(t),t in Ju)return;Ju[t]=!0;let r=t.endsWith(`.css`);for(let n=e.length-1;n>=0;n--){let i=e[n];if(i.href===t&&(!r||i.rel===`stylesheet`))return}let i=document.createElement(`link`);if(i.rel=r?`stylesheet`:Ku,r||(i.as=`script`),i.crossOrigin=``,i.href=t,a&&i.setAttribute(`nonce`,a),document.head.appendChild(i),r)return new Promise((e,n)=>{i.addEventListener(`load`,e),i.addEventListener(`error`,()=>n(Error(`Unable to preload CSS for ${t}`)))})}))}function i(e){let t=new Event(`vite:preloadError`,{cancelable:!0});if(t.payload=e,window.dispatchEvent(t),!t.defaultPrevented)throw e}return r.then(t=>{for(let e of t||[])e.status===`rejected`&&i(e.reason);return e().catch(i)})},Xu={IndexRoute:ol(`/`)({head:()=>({meta:[{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`},{name:`robots`,content:`noindex, nofollow`}]}),component:sl(()=>Yu(()=>import(`./routes-LnvUuLUn.js`),[]),`component`)}).update({id:`/`,path:`/`,getParentRoute:()=>Wu})},Zu=Wu._addFileChildren(Xu),Qu=()=>Sl({routeTree:Zu,context:{queryClient:new Mu},scrollRestoration:!0,defaultPreloadStaleTime:0});async function $u(){let e=await Qu(),t;if(Bl){let n=await Bl.getOptions();n.serializationAdapters=n.serializationAdapters??[],window.__TSS_START_OPTIONS__=n,t=n.serializationAdapters,e.options.defaultSsr=n.defaultSsr}else t=[],window.__TSS_START_OPTIONS__={serializationAdapters:t};return t.push(Vs),e.options.serializationAdapters&&t.push(...e.options.serializationAdapters),e.update({basepath:``,serializationAdapters:t}),e.stores.ids.get().length||await qn(e),e}var ed=$u;function td(){return ed().finally(()=>window.$_TSR?.h())}var nd;function rd(){return nd||=td(),(0,V.jsx)(qs,{promise:nd,children:e=>(0,V.jsx)(Tl,{router:e})})}var id=g();(0,B.startTransition)(()=>{(0,id.hydrateRoot)(document,(0,V.jsx)(B.StrictMode,{children:(0,V.jsx)(rd,{})}))});export{u as a,Gs as i,Vu as n,c as o,zu as r,Bu as t};
+`),Bu=zu.public.cs,Vu=`tel:${zu.business.phone.replace(/\s/g,``)}`;function Hu(){return(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-7xl font-bold text-foreground`,children:`404`}),(0,V.jsx)(`h2`,{className:`mt-4 text-xl font-semibold text-foreground`,children:`Page not found`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`The page you're looking for doesn't exist or has been moved.`}),(0,V.jsx)(`div`,{className:`mt-6`,children:(0,V.jsx)($c,{to:`/`,className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Go home`})})]})})}function Uu({error:e,reset:t}){console.error(e);let n=rc();return(0,B.useEffect)(()=>{Iu(e,{boundary:`tanstack_root_error_component`})},[e]),(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-xl font-semibold tracking-tight text-foreground`,children:`This page didn't load`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`Something went wrong on our end. You can try refreshing or head back home.`}),(0,V.jsxs)(`div`,{className:`mt-6 flex flex-wrap justify-center gap-2`,children:[(0,V.jsx)(`button`,{onClick:()=>{n.invalidate(),t()},className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Try again`}),(0,V.jsx)(`a`,{href:`/`,className:`inline-flex items-center justify-center rounded-md border border-input bg-background px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-accent`,children:`Go home`})]})]})})}var Wu=rl()({head:()=>({meta:[{charSet:`utf-8`},{name:`viewport`,content:`width=device-width, initial-scale=1`},{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{name:`author`,content:zu.business.name},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`}],links:[{rel:`stylesheet`,href:Fu},{rel:`preconnect`,href:`https://fonts.googleapis.com`},{rel:`preconnect`,href:`https://fonts.gstatic.com`,crossOrigin:`anonymous`},{rel:`stylesheet`,href:`https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap`}]}),shellComponent:Z,component:Gu,notFoundComponent:Hu,errorComponent:Uu});function Z({children:e}){return(0,V.jsxs)(`html`,{lang:`cs`,children:[(0,V.jsx)(`head`,{children:(0,V.jsx)(jl,{})}),(0,V.jsxs)(`body`,{children:[e,(0,V.jsx)(Nl,{})]})]})}function Gu(){let{queryClient:e}=Wu.useRouteContext();return(0,V.jsx)(Pu,{client:e,children:(0,V.jsx)(gl,{})})}var Ku=`modulepreload`,qu=function(e){return`/`+e},Ju={},Yu=function(e,t,n){let r=Promise.resolve();if(t&&t.length>0){let e=document.getElementsByTagName(`link`),i=document.querySelector(`meta[property=csp-nonce]`),a=i?.nonce||i?.getAttribute(`nonce`);function o(e){return Promise.all(e.map(e=>Promise.resolve(e).then(e=>({status:`fulfilled`,value:e}),e=>({status:`rejected`,reason:e}))))}function s(e){return import.meta.resolve?import.meta.resolve(e):new URL(e,import.meta.url).href}r=o(t.map(t=>{if(t=qu(t,n),t=s(t),t in Ju)return;Ju[t]=!0;let r=t.endsWith(`.css`);for(let n=e.length-1;n>=0;n--){let i=e[n];if(i.href===t&&(!r||i.rel===`stylesheet`))return}let i=document.createElement(`link`);if(i.rel=r?`stylesheet`:Ku,r||(i.as=`script`),i.crossOrigin=``,i.href=t,a&&i.setAttribute(`nonce`,a),document.head.appendChild(i),r)return new Promise((e,n)=>{i.addEventListener(`load`,e),i.addEventListener(`error`,()=>n(Error(`Unable to preload CSS for ${t}`)))})}))}function i(e){let t=new Event(`vite:preloadError`,{cancelable:!0});if(t.payload=e,window.dispatchEvent(t),!t.defaultPrevented)throw e}return r.then(t=>{for(let e of t||[])e.status===`rejected`&&i(e.reason);return e().catch(i)})},Xu={IndexRoute:ol(`/`)({head:()=>({meta:[{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`},{name:`robots`,content:`noindex, nofollow`}]}),component:sl(()=>Yu(()=>import(`./routes-CCq0Hs2x.js`),[]),`component`)}).update({id:`/`,path:`/`,getParentRoute:()=>Wu})},Zu=Wu._addFileChildren(Xu),Qu=()=>Sl({routeTree:Zu,context:{queryClient:new Mu},scrollRestoration:!0,defaultPreloadStaleTime:0});async function $u(){let e=await Qu(),t;if(Bl){let n=await Bl.getOptions();n.serializationAdapters=n.serializationAdapters??[],window.__TSS_START_OPTIONS__=n,t=n.serializationAdapters,e.options.defaultSsr=n.defaultSsr}else t=[],window.__TSS_START_OPTIONS__={serializationAdapters:t};return t.push(Vs),e.options.serializationAdapters&&t.push(...e.options.serializationAdapters),e.update({basepath:``,serializationAdapters:t}),e.stores.ids.get().length||await qn(e),e}var ed=$u;function td(){return ed().finally(()=>window.$_TSR?.h())}var nd;function rd(){return nd||=td(),(0,V.jsx)(qs,{promise:nd,children:e=>(0,V.jsx)(Tl,{router:e})})}var id=g();(0,B.startTransition)(()=>{(0,id.hydrateRoot)(document,(0,V.jsx)(B.StrictMode,{children:(0,V.jsx)(rd,{})}))});export{u as a,Gs as i,Vu as n,c as o,zu as r,Bu as t};
