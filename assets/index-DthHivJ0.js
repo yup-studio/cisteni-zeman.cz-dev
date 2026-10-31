@@ -71,7 +71,38 @@ Error generating stack: `+e.message+`
             "Čištění napomáhá odstranění skvrn, pachů a oživení barev; výsledek závisí na materiálu a opotřebení.",
             "Doporučená frekvence: domácnosti zhruba jednou za rok, vysoce zatěžované prostory jednou až dvakrát za rok.",
             "Cena se odvíjí od plochy, typu koberce, délky vlasu, množství a znečištění."
-          ]
+          ],
+          "process": {
+            "intro": "Strojové extrakční čištění koberců je postup, při kterém se do vláken pod tlakem aplikuje voda s čisticím prostředkem a současně se spolu s uvolněnými nečistotami odsává. Díky vysokému sacímu výkonu zůstává koberec po vyčištění vlhký, nikoli promočený.",
+            "steps": [
+              {
+                "title": "Příprava a vysávání",
+                "text": "Nejprve koberec nasucho důkladně vysajeme. Suché vysávání je již součástí ceny čištění."
+              },
+              {
+                "title": "Hloubková extrakce",
+                "text": "Čisticí roztok stroj vstřikuje do vláken koberce, kde pomáhá uvolnit ulpělé nečistoty."
+              },
+              {
+                "title": "Okamžité odsávání",
+                "text": "Roztok s nečistotami průběžně odsáváme výkonným extraktorem. Při silném znečištění postup podle potřeby opakujeme."
+              },
+              {
+                "title": "Schnutí a kontrola",
+                "text": "Nízké a zátěžové koberce schnou často přibližně 2–3 hodiny, vyšší vlas nebo více znečištěné koberce kolem 3–5 hodin. Důležitá je teplota a větrání."
+              }
+            ],
+            "included": [
+              "Suché vysávání bez příplatku",
+              "Čištění celoplošných i kusových koberců",
+              "Podle potřeby opakování extrakčního čištění",
+              "Posouzení typu vláken, výšky vlasu a znečištění"
+            ],
+            "limitations": "U zašlých, opotřebených či sluncem vyšisovaných vláken není vždy možné obnovit původní vzhled ani odstranit všechny skvrny. Výsledek a reálné možnosti předem vysvětlíme.",
+            "technique": "Používáme výkonné extraktory TRON, mimo jiné model LAVATRON 50, který je na původním webu popsán se dvěma sacími turbínami, 15l zásobníkem roztoku a 50l nerezovou nádobou na odsátou vodu.",
+            "recommendedFrequency": "V domácnostech většinou jednou ročně. U hodně zatěžovaných koberců, například na chodbách, v kancelářích či hotelech, nejméně jednou a ideálně dvakrát ročně.",
+            "serviceContext": "Domácnosti, školy, školky, kanceláře, obchody, restaurace, hotely, penziony a další provozy."
+          }
         },
         {
           "key": "upholstery",
@@ -82,7 +113,38 @@ Error generating stack: `+e.message+`
             "Speciální hubicí se čistí i obtížně přístupná čalouněná místa.",
             "Délka čištění běžné sedačky je orientačně hodina, záleží na rozměru a znečištění.",
             "Součástí čištění je suché vysávání; dobu schnutí ovlivňuje materiál, pokojová teplota a větrání."
-          ]
+          ],
+          "process": {
+            "intro": "Textilní čalounění čistíme hloubkovou extrakční metodou. Oproti kobercům používáme speciální hubici, díky které se dostaneme také ke spojům, rohům a hůře přístupným místům sedačky.",
+            "steps": [
+              {
+                "title": "Kontrola potahu",
+                "text": "Nejprve posoudíme materiál, opotřebení a skvrny. Čistíme látkové potahy, u nichž výrobce extrakční metodu nezakazuje."
+              },
+              {
+                "title": "Suché vysávání",
+                "text": "Prach a volné nečistoty odsajeme ještě před mokrým čištěním; vysávání je zahrnuto v ceně."
+              },
+              {
+                "title": "Nástřik a odsávání",
+                "text": "Speciální hubicí naneseme roztok a ihned jej spolu s uvolněnými nečistotami odsáváme. Při vyšším znečištění či skvrnách ošetření opakujeme."
+              },
+              {
+                "title": "Schnutí",
+                "text": "Čištění běžné sedačky trvá orientačně hodinu. Po vyčištění zůstane materiál vlhký a zpravidla schne 3–6 hodin podle potahu, teploty a větrání."
+              }
+            ],
+            "included": [
+              "Suché vysávání v ceně",
+              "Sedací soupravy, křesla, taburety, čalouněné židle a kancelářská křesla",
+              "Možnost čištění matrací z obou stran podle materiálu",
+              "Speciální hubice pro nepřístupná místa"
+            ],
+            "limitations": "Čistíme pouze vhodné textilní potahy, nikoli kůži. Mechanické opotřebení, vyblednutí a některé trvalé skvrny nemusí zmizet. Předem upozorníme na očekávaný výsledek.",
+            "technique": "Extrakční stroj s vysokým sacím výkonem a úzkou hubicí pro čalounění pomáhá čistit také částečně pod povrchem potahu. Na původním webu je uváděno odsátí až 90 % aplikované vody; jde o údaj závislý na konkrétním materiálu a podmínkách.",
+            "recommendedFrequency": "Interval čištění závisí na používání, materiálu a znečištění. U skvrn se vyplatí problém konzultovat co nejdříve.",
+            "serviceContext": "Sedačky a křesla v domácnostech, kancelářské židle, matrace a další vhodné textilní čalounění."
+          }
         },
         {
           "key": "windows",
@@ -93,7 +155,38 @@ Error generating stack: `+e.message+`
             "Používají se profesionální stěrky a rozmýváky; okolní podlahy a stěny se chrání před znečištěním.",
             "Cena se počítá podle všech umývaných stran a ploch včetně rámů, členitosti, přístupnosti a znečištění.",
             "Na požádání lze zajistit sundání a opětovné pověšení záclon nebo závěsů."
-          ]
+          ],
+          "process": {
+            "intro": "Mytí oken není pouze přetření skla. Součástí objednané práce může být umytí rámů, parapetů a dalších přístupných částí, včetně žaluzií či výloh podle domluvy.",
+            "steps": [
+              {
+                "title": "Posouzení rozsahu",
+                "text": "Zohledníme typ oken, počet umývaných stran, členitost, přístup a míru znečištění."
+              },
+              {
+                "title": "Příprava prostoru",
+                "text": "Před prací chráníme okolní podlahy a stěny a připravíme profesionální rozmýváky a stěrky."
+              },
+              {
+                "title": "Mytí a stírání",
+                "text": "Postupně umyjeme a setřeme skleněné plochy, rámy a parapety podle objednaného rozsahu."
+              },
+              {
+                "title": "Kontrola a další úkony",
+                "text": "Zkontrolujeme viditelné šmouhy, podle objednávky dočistíme žaluzie, výlohy či další skleněné plochy."
+              }
+            ],
+            "included": [
+              "Mytí skel, rámů a parapetů v dohodnutém rozsahu",
+              "Plastová i špaletová okna",
+              "Mytí po malování a stavebních pracích",
+              "Mytí horizontálních i čištění vertikálních žaluzií podle zakázky"
+            ],
+            "limitations": "Cena se počítá ze součtu skutečně mytých stran včetně rámů, nikoliv jen z rozměru otvoru. Obtížně přístupná a výšková okna řešíme individuálně.",
+            "technique": "Profesionální rozmýváky a stěrky; u rozsáhlejších zakázek individuální pracovní postup. Původní web uvádí také možnost zajištění výškového mytí za použití horolezecké techniky.",
+            "recommendedFrequency": "Výlohy často každých 14 dní nebo jednou měsíčně; ostatní okna podle potřeby a provozu.",
+            "serviceContext": "Byty, rodinné domy, obchody, administrativní budovy, školy, hotely a společné prostory domů."
+          }
         },
         {
           "key": "buildings",
@@ -104,7 +197,38 @@ Error generating stack: `+e.message+`
             "Měsíčně lze zahrnout zábradlí, suterény, sklepy a schránky.",
             "Dvakrát ročně lze provádět mytí oken, parapetů a osvětlovacích těles.",
             "Konkrétní četnost i úkony upravuje smlouva a individuální nabídka."
-          ]
+          ],
+          "process": {
+            "intro": "Pravidelný úklid společných prostor nastavujeme podle potřeb konkrétního domu a dohody se SVJ, družstvem či správcem. Nejde o stejný univerzální balíček pro všechny objekty.",
+            "steps": [
+              {
+                "title": "Prohlídka domu",
+                "text": "Společně určíme počet podlaží, vstupů, výtahů, typ podlah a skutečně využívané společné prostory."
+              },
+              {
+                "title": "Plán pravidelných prací",
+                "text": "Domluvíme interval zametání a vytírání chodeb a schodišť, úklid výtahů, vstupních dveří, rohožek a dalších frekventovaných míst."
+              },
+              {
+                "title": "Periodické práce",
+                "text": "Podle dohody zařadíme zábradlí, schránky, suterény, sklepy, parapety, okna a svítidla v delších intervalech."
+              },
+              {
+                "title": "Kontrola rozsahu",
+                "text": "Rozsah a frekvenci zapíšeme do nabídky či smlouvy, aby bylo jasné, které činnosti jsou zahrnuté."
+              }
+            ],
+            "included": [
+              "Úklid vstupů, chodeb, schodišť a výtahů",
+              "Zametání a vytírání podlah",
+              "Zábradlí, schránky a další povrchy dle rozpisu",
+              "Periodické mytí oken a prosklení dle dohody"
+            ],
+            "limitations": "Konkrétní četnost i rozsah nejsou automatickou součástí každé zakázky; vycházejí z dohody s klientem.",
+            "technique": "Dlouhodobý harmonogram s oddělenými týdenními, měsíčními a sezónními pracemi podle objektu.",
+            "recommendedFrequency": "Pravidelně podle dohodnutého harmonogramu; okna a méně frekventované části typicky v delších intervalech.",
+            "serviceContext": "SVJ, bytová družstva, správci nemovitostí, panelové a bytové domy."
+          }
         },
         {
           "key": "cars",
@@ -115,7 +239,38 @@ Error generating stack: `+e.message+`
             "Ošetření plastových částí, umytí mezidveřních prostor, vnitřních skel a oken.",
             "Orientační schnutí kolem tří hodin podle materiálu a počasí.",
             "Cena je stanovena podle velikosti a skutečného znečištění vozidla."
-          ]
+          ],
+          "process": {
+            "intro": "Interiér automobilu čistíme přímo na místě dohodnutém se zákazníkem. Nejde jen o vysátí sedadel: součástí sjednaného rozsahu může být hloubkové čištění textilu i péče o tvrdé povrchy.",
+            "steps": [
+              {
+                "title": "Posouzení a vysávání",
+                "text": "Zhodnotíme rozsah znečištění a vysajeme přístupné čalouněné části, podlahy a zavazadlový prostor."
+              },
+              {
+                "title": "Extrakční čištění textilu",
+                "text": "Profesionální hubicí vyčistíme látková přední i zadní sedadla, opěrky, výplně dveří a koberce."
+              },
+              {
+                "title": "Detaily interiéru",
+                "text": "Podle dohody vyčistíme a ošetříme plasty, umyjeme mezidveřní prostory a vnitřní skla."
+              },
+              {
+                "title": "Schnutí a předání",
+                "text": "Vysvětlíme doporučenou dobu schnutí; díky výkonnému odsávání se běžně pohybuje kolem 3 hodin podle materiálu a počasí."
+              }
+            ],
+            "included": [
+              "Čištění textilních sedadel a opěrek",
+              "Koberečky, podlahy a zavazadlový prostor",
+              "Výplně dveří a čalouněné části",
+              "Plasty, mezidveřní prostory a skla podle rozsahu"
+            ],
+            "limitations": "Cena se liší podle velikosti vozu a skutečného stavu. Schnutí závisí na počasí, větrání a druhu materiálu. Konkrétní práce si potvrdíme před zahájením.",
+            "technique": "Profesionální extraktor s vysokým sacím výkonem, cílené čištění textilií a následné ošetření dalších vnitřních povrchů.",
+            "recommendedFrequency": "Pravidelné čištění pomáhá udržet interiér při každodenním zatížení, zejména po zimním období.",
+            "serviceContext": "Osobní automobily, SUV, MPV, dodávky, autobusy, karavany a obytné automobily."
+          }
         }
       ],
       "contact": {
@@ -689,6 +844,11 @@ Error generating stack: `+e.message+`
             "supplierReply": null
           }
         ]
+      },
+      "equipment": {
+        "title": "Technika, kterou používáme",
+        "text": "Na čištění koberců a čalounění používáme profesionální extraktory s vysokým sacím výkonem. Na původním webu představujeme stroje TRON a model LAVATRON 50: dvě sací turbíny, nádrž 15 litrů na čisticí roztok a nerezovou 50litrovou nádobu na odsátou vodu. Díky extrakci lze nečistoty uvolnit z vláken a zároveň průběžně odsávat. Používáme vhodné certifikované čisticí prostředky.",
+        "note": "Při konkrétní zakázce volíme techniku a postup s ohledem na materiál, přístup a stupeň znečištění."
       }
     },
     "en": {
@@ -711,7 +871,38 @@ Error generating stack: `+e.message+`
             "Deep extraction cleaning using professional equipment",
             "Price depends on area, fibre, pile and soiling",
             "Recommended approximately annually at home, more often for heavy-traffic areas"
-          ]
+          ],
+          "process": {
+            "intro": "Our professional extraction method sprays water mixed with a cleaning solution into the carpet fibres and immediately extracts the liquid together with loosened dirt. High suction power helps leave carpets damp rather than saturated.",
+            "steps": [
+              {
+                "title": "Preparation and dry vacuuming",
+                "text": "We thoroughly dry-vacuum the carpet before extraction. This is included in the cleaning price."
+              },
+              {
+                "title": "Deep extraction",
+                "text": "Cleaning solution is injected into the carpet fibres to loosen embedded dirt."
+              },
+              {
+                "title": "Immediate recovery",
+                "text": "A professional extractor immediately removes the solution and dirt. Heavily soiled areas may require repeated passes."
+              },
+              {
+                "title": "Drying and inspection",
+                "text": "Low-pile carpets often dry in about 2–3 hours; deeper pile or heavily soiled carpets can take 3–5 hours. Temperature and ventilation matter."
+              }
+            ],
+            "included": [
+              "Dry vacuuming included",
+              "Fitted carpets and area rugs",
+              "Repeated extraction passes as needed",
+              "Assessment of pile, material and soiling"
+            ],
+            "limitations": "Wear, fading and long-standing stains may prevent a like-new result. We discuss realistic expectations before cleaning.",
+            "technique": "We use professional TRON extraction equipment. The original site describes the LAVATRON 50 model with two suction turbines, a 15-litre solution tank and a 50-litre stainless-steel recovery tank.",
+            "recommendedFrequency": "Usually once a year in homes, and once or twice a year in busy offices, corridors and hospitality venues.",
+            "serviceContext": "Homes, schools, nurseries, offices, shops, restaurants, hotels and other commercial premises."
+          }
         },
         {
           "key": "upholstery",
@@ -721,7 +912,38 @@ Error generating stack: `+e.message+`
             "Fabric upholstery only where extraction cleaning is permitted by the manufacturer",
             "Special upholstery tools reach corners and edges",
             "Drying depends on fabric, temperature and ventilation"
-          ]
+          ],
+          "process": {
+            "intro": "We deep-clean suitable fabric upholstery using the extraction method, with a specialist nozzle designed to reach seams, corners and difficult areas of sofas and chairs.",
+            "steps": [
+              {
+                "title": "Inspect the material",
+                "text": "We assess fabric condition, wear and staining. We only use extraction on textiles that permit it."
+              },
+              {
+                "title": "Dry vacuuming",
+                "text": "Dust and loose debris are removed before wet cleaning, at no extra charge."
+              },
+              {
+                "title": "Spray and extract",
+                "text": "A specialist nozzle applies cleaning solution and immediately extracts it with loosened dirt. Stained areas may require repeated treatment."
+              },
+              {
+                "title": "Drying",
+                "text": "An average sofa takes around an hour to clean, followed by about 3–6 hours of drying depending on fabric, temperature and ventilation."
+              }
+            ],
+            "included": [
+              "Dry vacuuming included",
+              "Fabric sofas, armchairs, stools, chairs and office chairs",
+              "Suitable mattresses can be cleaned on both sides",
+              "Specialist nozzle for seams and tight areas"
+            ],
+            "limitations": "Leather and fabrics whose manufacturers prohibit extraction are excluded. Wear, fading and permanent stains may remain; we explain likely results beforehand.",
+            "technique": "Powerful extraction equipment with a dedicated upholstery nozzle also cleans somewhat beneath the surface. The original website mentions recovery of up to 90% of applied water; actual recovery varies with the fabric and conditions.",
+            "recommendedFrequency": "Frequency depends on use and fabric condition; ask us about stains as soon as possible.",
+            "serviceContext": "Homes, offices, chairs, mattresses and suitable textile upholstery."
+          }
         },
         {
           "key": "windows",
@@ -731,7 +953,38 @@ Error generating stack: `+e.message+`
             "Regular and post-construction window cleaning",
             "Protected floors and surrounding surfaces",
             "Charges depend on the total cleaned surface, accessibility and soiling"
-          ]
+          ],
+          "process": {
+            "intro": "Window cleaning goes beyond the glass. Depending on the agreed service, we also clean frames, sills, blinds and shopfront glazing.",
+            "steps": [
+              {
+                "title": "Assess the job",
+                "text": "We check window type, the number of sides to be cleaned, accessibility, frame details and soiling."
+              },
+              {
+                "title": "Protect the surroundings",
+                "text": "We protect nearby floors and walls and prepare professional applicators and squeegees."
+              },
+              {
+                "title": "Wash and squeegee",
+                "text": "We work systematically across glass, frames and sills as agreed."
+              },
+              {
+                "title": "Final check",
+                "text": "We inspect for visible streaks and complete any included blinds or shopfront work."
+              }
+            ],
+            "included": [
+              "Glass, frames and sills as agreed",
+              "Modern and traditional box-frame windows",
+              "Post-renovation window washing",
+              "Horizontal and vertical blinds when ordered"
+            ],
+            "limitations": "Pricing counts all washed surfaces including frames. High-level or difficult access requires an individual arrangement.",
+            "technique": "Professional applicators and squeegees. The original site also describes arranging high-level window cleaning using rope-access methods.",
+            "recommendedFrequency": "Shopfronts are often cleaned every two weeks or monthly; other schedules are agreed individually.",
+            "serviceContext": "Homes, shops, offices, schools, hotels and residential buildings."
+          }
         },
         {
           "key": "buildings",
@@ -741,7 +994,38 @@ Error generating stack: `+e.message+`
             "Weekly stairways, corridors, entrances, lifts and mats",
             "Optional monthly railings, basements and letterboxes",
             "Windows, sills and light fittings can be cleaned twice a year"
-          ]
+          ],
+          "process": {
+            "intro": "We tailor shared-area cleaning to the specific building and agree the schedule with the homeowners' association, cooperative or property manager.",
+            "steps": [
+              {
+                "title": "Inspect the premises",
+                "text": "We assess floors, entrances, lifts and shared facilities."
+              },
+              {
+                "title": "Agree regular tasks",
+                "text": "We set intervals for sweeping and mopping corridors and stairs, cleaning lifts, entrances and mats."
+              },
+              {
+                "title": "Schedule periodic jobs",
+                "text": "Railings, letterboxes, basements, sills, windows and lighting can be included at suitable intervals."
+              },
+              {
+                "title": "Document the scope",
+                "text": "The tasks and frequency are written into the quote or service agreement."
+              }
+            ],
+            "included": [
+              "Entrances, stairwells, corridors and lifts",
+              "Sweeping and mopping",
+              "Railings and other shared surfaces as agreed",
+              "Scheduled window washing when included"
+            ],
+            "limitations": "Frequency and inclusions are agreed individually rather than assumed as a fixed package.",
+            "technique": "A tailored routine distinguishing weekly, monthly and seasonal tasks.",
+            "recommendedFrequency": "According to the agreed schedule; windows and low-traffic spaces usually less often.",
+            "serviceContext": "Homeowners' associations, housing cooperatives and property managers."
+          }
         },
         {
           "key": "cars",
@@ -751,7 +1035,38 @@ Error generating stack: `+e.message+`
             "Fabric seats and door trims, carpeting and boot",
             "Plastic trim treatment and interior glass",
             "Typical drying time around three hours"
-          ]
+          ],
+          "process": {
+            "intro": "We clean vehicle interiors at the customer's chosen location. Depending on the agreed package, the work covers deep fabric extraction as well as hard-surface detailing.",
+            "steps": [
+              {
+                "title": "Inspect and vacuum",
+                "text": "We assess soiling and vacuum accessible seats, flooring and the boot."
+              },
+              {
+                "title": "Extract fabric dirt",
+                "text": "We deep-clean suitable front and rear fabric seats, headrests, door trims and carpets."
+              },
+              {
+                "title": "Interior details",
+                "text": "As agreed, we clean and protect plastics, door jambs and interior glass."
+              },
+              {
+                "title": "Dry and hand over",
+                "text": "We advise on drying, often around three hours depending on weather, ventilation and materials."
+              }
+            ],
+            "included": [
+              "Fabric seats and headrests",
+              "Carpets, mats and boot",
+              "Fabric door trims",
+              "Plastics, door jambs and glass as agreed"
+            ],
+            "limitations": "Price depends on vehicle size and condition. Drying time varies; the exact scope is agreed before work begins.",
+            "technique": "Professional high-suction extraction for textiles followed by cleaning and treatment of interior surfaces.",
+            "recommendedFrequency": "Regular cleaning is especially useful after the winter season and everyday heavy use.",
+            "serviceContext": "Passenger cars, SUVs, MPVs, vans, buses and campers."
+          }
         }
       ],
       "about": {
@@ -1309,6 +1624,11 @@ Error generating stack: `+e.message+`
             "supplierReply": null
           }
         ]
+      },
+      "equipment": {
+        "title": "Our professional equipment",
+        "text": "For carpets and upholstery we use professional high-suction extraction machines. Our original website describes TRON equipment, including the LAVATRON 50: two suction turbines, a 15-litre solution tank and a 50-litre stainless-steel recovery tank. This method loosens dirt within fibres and extracts used solution continuously. We select appropriate tested cleaning products.",
+        "note": "We choose the equipment and procedure based on the material, access and degree of soiling."
       }
     }
   },
@@ -1430,8 +1750,21 @@ Error generating stack: `+e.message+`
         "count": 16,
         "source": "User-uploaded screenshots of NejŘemeslníci.cz customer reviews",
         "notes": "Quotes transcribed from screenshots, original typos retained; EN versions are translations. Ratings only where visible. No photos available. One supplier response and one platform verified label visible. Do not present all as platform verified."
+      },
+      "technicalServiceDetail": {
+        "updatedOn": "2026-10-31",
+        "sourceUrls": [
+          "https://uklidove-firmy-az.estranky.cz/",
+          "https://uklidove-firmy-az.estranky.cz/clanky/cisteni-kobercu-praha-kladno.html",
+          "https://uklidove-firmy-az.estranky.cz/clanky/cisteni-sedacek-praha-kladno.html",
+          "https://uklidove-firmy-az.estranky.cz/clanky/myti-oken-praha-kladno.html",
+          "https://uklidove-firmy-az.estranky.cz/clanky/uklid-spolecnych-prostor-bytovych-domu.html",
+          "https://uklidove-firmy-az.estranky.cz/clanky/cisteni-interieru-aut-praha-kladno.html"
+        ],
+        "rendering": "Each service now has process.intro, process.steps, process.included, process.limitations, process.technique, process.recommendedFrequency, process.serviceContext; frontend must render these from content.md. equipment is shared cross-service content.",
+        "quality": "No absolute guarantees of stain, mite or allergen removal; historic equipment details retained as sourced."
       }
     }
   }
 }
-`),Bu=zu.public.cs,Vu=`tel:${zu.business.phone.replace(/\s/g,``)}`;function Hu(){return(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-7xl font-bold text-foreground`,children:`404`}),(0,V.jsx)(`h2`,{className:`mt-4 text-xl font-semibold text-foreground`,children:`Page not found`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`The page you're looking for doesn't exist or has been moved.`}),(0,V.jsx)(`div`,{className:`mt-6`,children:(0,V.jsx)($c,{to:`/`,className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Go home`})})]})})}function Uu({error:e,reset:t}){console.error(e);let n=rc();return(0,B.useEffect)(()=>{Iu(e,{boundary:`tanstack_root_error_component`})},[e]),(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-xl font-semibold tracking-tight text-foreground`,children:`This page didn't load`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`Something went wrong on our end. You can try refreshing or head back home.`}),(0,V.jsxs)(`div`,{className:`mt-6 flex flex-wrap justify-center gap-2`,children:[(0,V.jsx)(`button`,{onClick:()=>{n.invalidate(),t()},className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Try again`}),(0,V.jsx)(`a`,{href:`/`,className:`inline-flex items-center justify-center rounded-md border border-input bg-background px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-accent`,children:`Go home`})]})]})})}var Wu=rl()({head:()=>({meta:[{charSet:`utf-8`},{name:`viewport`,content:`width=device-width, initial-scale=1`},{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{name:`author`,content:zu.business.name},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`}],links:[{rel:`stylesheet`,href:Fu},{rel:`preconnect`,href:`https://fonts.googleapis.com`},{rel:`preconnect`,href:`https://fonts.gstatic.com`,crossOrigin:`anonymous`},{rel:`stylesheet`,href:`https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap`}]}),shellComponent:Z,component:Gu,notFoundComponent:Hu,errorComponent:Uu});function Z({children:e}){return(0,V.jsxs)(`html`,{lang:`cs`,children:[(0,V.jsx)(`head`,{children:(0,V.jsx)(jl,{})}),(0,V.jsxs)(`body`,{children:[e,(0,V.jsx)(Nl,{})]})]})}function Gu(){let{queryClient:e}=Wu.useRouteContext();return(0,V.jsx)(Pu,{client:e,children:(0,V.jsx)(gl,{})})}var Ku=`modulepreload`,qu=function(e){return`/`+e},Ju={},Yu=function(e,t,n){let r=Promise.resolve();if(t&&t.length>0){let e=document.getElementsByTagName(`link`),i=document.querySelector(`meta[property=csp-nonce]`),a=i?.nonce||i?.getAttribute(`nonce`);function o(e){return Promise.all(e.map(e=>Promise.resolve(e).then(e=>({status:`fulfilled`,value:e}),e=>({status:`rejected`,reason:e}))))}function s(e){return import.meta.resolve?import.meta.resolve(e):new URL(e,import.meta.url).href}r=o(t.map(t=>{if(t=qu(t,n),t=s(t),t in Ju)return;Ju[t]=!0;let r=t.endsWith(`.css`);for(let n=e.length-1;n>=0;n--){let i=e[n];if(i.href===t&&(!r||i.rel===`stylesheet`))return}let i=document.createElement(`link`);if(i.rel=r?`stylesheet`:Ku,r||(i.as=`script`),i.crossOrigin=``,i.href=t,a&&i.setAttribute(`nonce`,a),document.head.appendChild(i),r)return new Promise((e,n)=>{i.addEventListener(`load`,e),i.addEventListener(`error`,()=>n(Error(`Unable to preload CSS for ${t}`)))})}))}function i(e){let t=new Event(`vite:preloadError`,{cancelable:!0});if(t.payload=e,window.dispatchEvent(t),!t.defaultPrevented)throw e}return r.then(t=>{for(let e of t||[])e.status===`rejected`&&i(e.reason);return e().catch(i)})},Xu={IndexRoute:ol(`/`)({head:()=>({meta:[{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`},{name:`robots`,content:`noindex, nofollow`}]}),component:sl(()=>Yu(()=>import(`./routes-CL-J2fUE.js`),[]),`component`)}).update({id:`/`,path:`/`,getParentRoute:()=>Wu})},Zu=Wu._addFileChildren(Xu),Qu=()=>Sl({routeTree:Zu,context:{queryClient:new Mu},scrollRestoration:!0,defaultPreloadStaleTime:0});async function $u(){let e=await Qu(),t;if(Bl){let n=await Bl.getOptions();n.serializationAdapters=n.serializationAdapters??[],window.__TSS_START_OPTIONS__=n,t=n.serializationAdapters,e.options.defaultSsr=n.defaultSsr}else t=[],window.__TSS_START_OPTIONS__={serializationAdapters:t};return t.push(Vs),e.options.serializationAdapters&&t.push(...e.options.serializationAdapters),e.update({basepath:``,serializationAdapters:t}),e.stores.ids.get().length||await qn(e),e}var ed=$u;function td(){return ed().finally(()=>window.$_TSR?.h())}var nd;function rd(){return nd||=td(),(0,V.jsx)(qs,{promise:nd,children:e=>(0,V.jsx)(Tl,{router:e})})}var id=g();(0,B.startTransition)(()=>{(0,id.hydrateRoot)(document,(0,V.jsx)(B.StrictMode,{children:(0,V.jsx)(rd,{})}))});export{u as a,Gs as i,Vu as n,c as o,zu as r,Bu as t};
+`),Bu=zu.public.cs,Vu=`tel:${zu.business.phone.replace(/\s/g,``)}`;function Hu(){return(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-7xl font-bold text-foreground`,children:`404`}),(0,V.jsx)(`h2`,{className:`mt-4 text-xl font-semibold text-foreground`,children:`Page not found`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`The page you're looking for doesn't exist or has been moved.`}),(0,V.jsx)(`div`,{className:`mt-6`,children:(0,V.jsx)($c,{to:`/`,className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Go home`})})]})})}function Uu({error:e,reset:t}){console.error(e);let n=rc();return(0,B.useEffect)(()=>{Iu(e,{boundary:`tanstack_root_error_component`})},[e]),(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-xl font-semibold tracking-tight text-foreground`,children:`This page didn't load`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`Something went wrong on our end. You can try refreshing or head back home.`}),(0,V.jsxs)(`div`,{className:`mt-6 flex flex-wrap justify-center gap-2`,children:[(0,V.jsx)(`button`,{onClick:()=>{n.invalidate(),t()},className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Try again`}),(0,V.jsx)(`a`,{href:`/`,className:`inline-flex items-center justify-center rounded-md border border-input bg-background px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-accent`,children:`Go home`})]})]})})}var Wu=rl()({head:()=>({meta:[{charSet:`utf-8`},{name:`viewport`,content:`width=device-width, initial-scale=1`},{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{name:`author`,content:zu.business.name},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`}],links:[{rel:`stylesheet`,href:Fu},{rel:`preconnect`,href:`https://fonts.googleapis.com`},{rel:`preconnect`,href:`https://fonts.gstatic.com`,crossOrigin:`anonymous`},{rel:`stylesheet`,href:`https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap`}]}),shellComponent:Z,component:Gu,notFoundComponent:Hu,errorComponent:Uu});function Z({children:e}){return(0,V.jsxs)(`html`,{lang:`cs`,children:[(0,V.jsx)(`head`,{children:(0,V.jsx)(jl,{})}),(0,V.jsxs)(`body`,{children:[e,(0,V.jsx)(Nl,{})]})]})}function Gu(){let{queryClient:e}=Wu.useRouteContext();return(0,V.jsx)(Pu,{client:e,children:(0,V.jsx)(gl,{})})}var Ku=`modulepreload`,qu=function(e){return`/`+e},Ju={},Yu=function(e,t,n){let r=Promise.resolve();if(t&&t.length>0){let e=document.getElementsByTagName(`link`),i=document.querySelector(`meta[property=csp-nonce]`),a=i?.nonce||i?.getAttribute(`nonce`);function o(e){return Promise.all(e.map(e=>Promise.resolve(e).then(e=>({status:`fulfilled`,value:e}),e=>({status:`rejected`,reason:e}))))}function s(e){return import.meta.resolve?import.meta.resolve(e):new URL(e,import.meta.url).href}r=o(t.map(t=>{if(t=qu(t,n),t=s(t),t in Ju)return;Ju[t]=!0;let r=t.endsWith(`.css`);for(let n=e.length-1;n>=0;n--){let i=e[n];if(i.href===t&&(!r||i.rel===`stylesheet`))return}let i=document.createElement(`link`);if(i.rel=r?`stylesheet`:Ku,r||(i.as=`script`),i.crossOrigin=``,i.href=t,a&&i.setAttribute(`nonce`,a),document.head.appendChild(i),r)return new Promise((e,n)=>{i.addEventListener(`load`,e),i.addEventListener(`error`,()=>n(Error(`Unable to preload CSS for ${t}`)))})}))}function i(e){let t=new Event(`vite:preloadError`,{cancelable:!0});if(t.payload=e,window.dispatchEvent(t),!t.defaultPrevented)throw e}return r.then(t=>{for(let e of t||[])e.status===`rejected`&&i(e.reason);return e().catch(i)})},Xu={IndexRoute:ol(`/`)({head:()=>({meta:[{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`},{name:`robots`,content:`noindex, nofollow`}]}),component:sl(()=>Yu(()=>import(`./routes-BxUdqxwC.js`),[]),`component`)}).update({id:`/`,path:`/`,getParentRoute:()=>Wu})},Zu=Wu._addFileChildren(Xu),Qu=()=>Sl({routeTree:Zu,context:{queryClient:new Mu},scrollRestoration:!0,defaultPreloadStaleTime:0});async function $u(){let e=await Qu(),t;if(Bl){let n=await Bl.getOptions();n.serializationAdapters=n.serializationAdapters??[],window.__TSS_START_OPTIONS__=n,t=n.serializationAdapters,e.options.defaultSsr=n.defaultSsr}else t=[],window.__TSS_START_OPTIONS__={serializationAdapters:t};return t.push(Vs),e.options.serializationAdapters&&t.push(...e.options.serializationAdapters),e.update({basepath:``,serializationAdapters:t}),e.stores.ids.get().length||await qn(e),e}var ed=$u;function td(){return ed().finally(()=>window.$_TSR?.h())}var nd;function rd(){return nd||=td(),(0,V.jsx)(qs,{promise:nd,children:e=>(0,V.jsx)(Tl,{router:e})})}var id=g();(0,B.startTransition)(()=>{(0,id.hydrateRoot)(document,(0,V.jsx)(B.StrictMode,{children:(0,V.jsx)(rd,{})}))});export{u as a,Gs as i,Vu as n,c as o,zu as r,Bu as t};
