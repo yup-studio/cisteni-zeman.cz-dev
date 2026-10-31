@@ -475,6 +475,220 @@ Error generating stack: `+e.message+`
             "description": "Archiv zákaznických referencí"
           }
         ]
+      },
+      "customerTestimonials": {
+        "title": "Co o naší práci říkají zákazníci",
+        "intro": "Skutečné zkušenosti zákazníků zveřejněné na portálu NejŘemeslníci.cz.",
+        "items": [
+          {
+            "id": "nejremeslnici-01",
+            "title": "Čištění koberců, sedačky a matrace",
+            "quote": "Perfektní servis, určitě v budoucnu využiju znovu.",
+            "rating": 5,
+            "author": null,
+            "task": "Dva kusové koberce (2 a 5 m²), třímístná sedačka s taburetem a dvojlůžková matrace.",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "sourceEvidence": "Screenshot supplied by project owner 2026-10-31",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-02",
+            "title": "Čištění sedací soupravy",
+            "quote": "Vše v pořádku. Sedačka rychle a kvalitně vyčištěna.",
+            "rating": 5,
+            "author": null,
+            "task": "Látková rohová rozkládací pětimístná sedačka v Praze 13.",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "sourceEvidence": "Screenshot supplied by project owner 2026-10-31",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-03",
+            "title": "Opakované čištění koberců, sedačky, matrací a oken",
+            "quote": "Už několikrát jsem si pana Zemana objednala na čištění koberců,sedačky,matrací i mytí oken a byla jsem nad očekávání mile překvapena. Jak s výsledkem, precizností, domluvou, vždy je velice příjemný a milý. Nakonec mě vždy mile překvapí i cena. Jsem velice spokojená a mohu jen doporučit.",
+            "rating": null,
+            "author": null,
+            "task": null,
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "sourceEvidence": "Screenshot supplied by project owner 2026-10-31",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-04",
+            "title": "Čištění koberců a čalounění",
+            "quote": "Pan Zeman mi dal nejkratší možný termín, dorazil na čas, výborně odvedl práci, dokonce se mu podařilo zbavit můj koberec nehezkého fleku,který mě opravdu trápil. Ušetřil mi spoustu dřiny za velmi slušnou cenu. Mohu jen doporučit. Za mě naprostá spokojenost.",
+            "rating": 5,
+            "author": null,
+            "task": "Dva celoplošné koberce, sedací souprava L, křeslo, menší kobereček a čalouněná postel.",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "sourceEvidence": "Screenshot supplied by project owner 2026-10-31",
+            "verifiedByPlatform": true,
+            "supplierReply": "Moc děkuji za Vaši objednávku, důvěru v mé služby a hlavně za hodnocení mé práce. Moc si toho vážím a jsem rád, že jste s výsledkem spokojena. Přeji Vám hodně zdraví, sil a energie na Vaši náročnou práci. Děkuji Vám za všechny, kterým pomáháte, vážím si toho a obdivuji Vás za to, co děláte."
+          },
+          {
+            "id": "nejremeslnici-05",
+            "title": "Mytí oken",
+            "quote": "Za 2,5 hodiny byla okna v perfektním stavu. Pan Zeman je navíc skutečným profesionálem - přesný, spolehlivý a vstřícný. Cena byla určitě odpovídající. Děkujeme!",
+            "rating": 5,
+            "author": null,
+            "task": "Mytí oken o celkové ploše 82 m².",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "sourceEvidence": "Screenshot supplied by project owner 2026-10-31",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-06",
+            "title": "Čištění koberců a sedačky",
+            "quote": "S panem Zemanem jsem byla opravdu velice spokojena!Příjemný,milý,vstřícný,rychlý,dochvilný a pracovitý,Všem opravdu velice doporučuji.Byla jsem opravdu velice spokojena.Děkuji Pavlíčková Soňa",
+            "rating": 5,
+            "author": "Soňa Pavlíčková",
+            "task": "Koberec cca 15 m² a osm sedacích míst.",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "sourceEvidence": "Screenshot supplied by project owner 2026-10-31",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-07",
+            "title": "Čištění koberců v domě",
+            "quote": "vše proběhlo tak, jak jsme se domluvili, pan Zeman mi vše zodpověděl a vysvětlil, z výsledku jsme nadšeni, v budoucnu bych si ho určitě objednala znovu, mohu jen doporučit",
+            "rating": 5,
+            "author": null,
+            "task": "Hloubkové čištění koberce v domě o ploše 80 m².",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "sourceEvidence": "Screenshot supplied by project owner 2026-10-31",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-08",
+            "title": "Čištění koberců a sedačky",
+            "quote": "Celkově jsem moc spokojený, vyčištěno, cena dle domluvy a jednání super. Takže služby budu do budoucna určitě využívat a opravdu p. Zemana DOPORUČUJI !!!",
+            "rating": 4.3,
+            "author": null,
+            "task": null,
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "sourceEvidence": "Screenshot supplied by project owner 2026-10-31",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-09",
+            "title": "Čištění rohového gauče, křesla a taburetů",
+            "quote": "Jednání bylo příjemné.Práce byla provedena perfektně.. Termín dodržen. Částka k zhaplacení také dodržena - spokojenost.",
+            "rating": 5,
+            "author": "Ilona Štorkánová",
+            "task": "Rohový gauč 160 × 180 cm, křeslo 90 × 100 cm a dva taburety 50 × 50 cm.",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "sourceEvidence": "Screenshot supplied by project owner 2026-10-31",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-10",
+            "title": "Čištění koberců",
+            "quote": "Doporučuji",
+            "rating": 5,
+            "author": null,
+            "task": "Extrakční čištění koberců o ploše cca 30 m².",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "sourceEvidence": "Screenshot supplied by project owner 2026-10-31",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-11",
+            "title": "Čištění sedací soupravy",
+            "quote": "Byla jsem velice spokojená",
+            "rating": 5,
+            "author": "Plochová",
+            "task": "Rohová sedačka a křeslo.",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "sourceEvidence": "Screenshot supplied by project owner 2026-10-31",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-12",
+            "title": "Čištění sedací soupravy",
+            "quote": "Pan Zeman byl velmi milý, ochotný. Domluva byla rychlá, kalkulaci mi poslal do druhého dne, termín jsme našli rychle. Přijel načas, gauč si nejdříve prohlédl a upozornil, že některé skvrny nejspíš zůstanou. Během čištění dával pozor, aby voda netekla po podlaze. Celá návštěva trvala asi hodinu. Úplně suchá byla sedačka do druhého dne. S výsledkem jsem spokojená, i když opravdu několik fleků zůstalo. S tím jsem ale byla smířená předem, protože máme světlou barvu a dvouleté dítě. Nakonec mě pan Zeman potěšil celkem výrazným snížením dohodnuté ceny. Jednoznačně doporučuji.",
+            "rating": null,
+            "author": null,
+            "task": "Čištění sedací soupravy.",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "sourceEvidence": "Screenshot supplied by project owner 2026-10-31",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-13",
+            "title": "Čištění koberců a sedačky",
+            "quote": "Jsem velice spokojena,pan Zeman je velice příjemný a ochotný.Práce odvedena velice kvalitně, určitě si firmu zase objednám. Zde je vidět že jsou lidé na správném místě, děkuji Tomašovičová,",
+            "rating": 5,
+            "author": "Tomašovičová",
+            "task": "Čištění koberců a sedačky.",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "sourceEvidence": "Screenshot supplied by project owner 2026-10-31",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-14",
+            "title": "Strojové čištění koberců",
+            "quote": "super spokojenost můžu doporučit",
+            "rating": 5,
+            "author": "Lukašova",
+            "task": "Strojové čištění koberců, rozměry 9 × 5,5 m a 3,5 × 5,5 m.",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "sourceEvidence": "Screenshot supplied by project owner 2026-10-31",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-15",
+            "title": "Čištění koberců, oken a sedačky",
+            "quote": "Naprostá spokojenost, precizně provedená práce, čištění koberců i mytí oken splnilo naše očekávání, sedací souprava je rovněž jako nová. Termín i čas byl dodržen, cena byla dokonce nižší, než dohodnutá. Celkově jsme velmi spokojeni, můžeme vřele doporučit.",
+            "rating": null,
+            "author": null,
+            "task": "Čištění koberců, mytí oken a čištění sedací soupravy v rodinném domě.",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "sourceEvidence": "Screenshot supplied by project owner 2026-10-31",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-16",
+            "title": "Pravidelné čištění koberců a čalounění",
+            "quote": "Úklidovou firmu používám a doporučuji již několik let, vždy jsem velmi spokojena s kvalitou práce. Termín byl dodržen a cena taktéž.Úklidová firma pana Aleše Zemana vždy pro mě a mé známé byla známkou vysoké kvality a serióznosti.",
+            "rating": 5,
+            "author": null,
+            "task": "Čištění koberců a čalounění, byt 3+1 v Kladně, plocha koberců 40 m².",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "sourceEvidence": "Screenshot supplied by project owner 2026-10-31",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          }
+        ]
       }
     },
     "en": {
@@ -897,6 +1111,204 @@ Error generating stack: `+e.message+`
             "description": "Customer reference archive"
           }
         ]
+      },
+      "customerTestimonials": {
+        "title": "What customers say about our work",
+        "intro": "Customer experiences originally published on NejŘemeslníci.cz. English translations are provided for convenience.",
+        "items": [
+          {
+            "id": "nejremeslnici-01",
+            "title": "Čištění koberců, sedačky a matrace",
+            "quote": "Excellent service. I will definitely use it again.",
+            "originalQuote": "Perfektní servis, určitě v budoucnu využiju znovu.",
+            "rating": 5,
+            "author": null,
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-02",
+            "title": "Čištění sedací soupravy",
+            "quote": "Everything went well. The sofa was cleaned quickly and thoroughly.",
+            "originalQuote": "Vše v pořádku. Sedačka rychle a kvalitně vyčištěna.",
+            "rating": 5,
+            "author": null,
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-03",
+            "title": "Opakované čištění koberců, sedačky, matrací a oken",
+            "quote": "I have booked Mr Zeman several times to clean carpets, upholstery, mattresses and windows. His results, precision and friendly communication have exceeded my expectations. I have also been pleasantly surprised by the price. I am very satisfied and recommend him.",
+            "originalQuote": "Už několikrát jsem si pana Zemana objednala na čištění koberců,sedačky,matrací i mytí oken a byla jsem nad očekávání mile překvapena. Jak s výsledkem, precizností, domluvou, vždy je velice příjemný a milý. Nakonec mě vždy mile překvapí i cena. Jsem velice spokojená a mohu jen doporučit.",
+            "rating": null,
+            "author": null,
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-04",
+            "title": "Čištění koberců a čalounění",
+            "quote": "Mr Zeman offered the earliest available appointment, arrived on time and did excellent work. He even removed an unpleasant stain from my carpet. He saved me considerable effort for a very reasonable price. Highly recommended.",
+            "originalQuote": "Pan Zeman mi dal nejkratší možný termín, dorazil na čas, výborně odvedl práci, dokonce se mu podařilo zbavit můj koberec nehezkého fleku,který mě opravdu trápil. Ušetřil mi spoustu dřiny za velmi slušnou cenu. Mohu jen doporučit. Za mě naprostá spokojenost.",
+            "rating": 5,
+            "author": null,
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "verifiedByPlatform": true,
+            "supplierReply": "Thank you for your order, your trust and especially for reviewing my work. I truly appreciate it and am glad you are satisfied with the result. I wish you health, strength and energy for your demanding work, and thank you for helping others. I admire what you do."
+          },
+          {
+            "id": "nejremeslnici-05",
+            "title": "Mytí oken",
+            "quote": "The windows were spotless in two and a half hours. Mr Zeman is a true professional — punctual, reliable and helpful. The price was fair. Thank you!",
+            "originalQuote": "Za 2,5 hodiny byla okna v perfektním stavu. Pan Zeman je navíc skutečným profesionálem - přesný, spolehlivý a vstřícný. Cena byla určitě odpovídající. Děkujeme!",
+            "rating": 5,
+            "author": null,
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-06",
+            "title": "Čištění koberců a sedačky",
+            "quote": "I was extremely satisfied with Mr Zeman! Friendly, helpful, quick, punctual and hardworking. I highly recommend him. Thank you. — Soňa Pavlíčková",
+            "originalQuote": "S panem Zemanem jsem byla opravdu velice spokojena!Příjemný,milý,vstřícný,rychlý,dochvilný a pracovitý,Všem opravdu velice doporučuji.Byla jsem opravdu velice spokojena.Děkuji Pavlíčková Soňa",
+            "rating": 5,
+            "author": "Soňa Pavlíčková",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-07",
+            "title": "Čištění koberců v domě",
+            "quote": "Everything went as agreed. Mr Zeman answered all my questions and explained everything. We are delighted with the result and would book him again. Highly recommended.",
+            "originalQuote": "vše proběhlo tak, jak jsme se domluvili, pan Zeman mi vše zodpověděl a vysvětlil, z výsledku jsme nadšeni, v budoucnu bych si ho určitě objednala znovu, mohu jen doporučit",
+            "rating": 5,
+            "author": null,
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-08",
+            "title": "Čištění koberců a sedačky",
+            "quote": "I am very satisfied: everything was cleaned, the price was as agreed and the communication was excellent. I will use his services again and strongly recommend Mr Zeman!",
+            "originalQuote": "Celkově jsem moc spokojený, vyčištěno, cena dle domluvy a jednání super. Takže služby budu do budoucna určitě využívat a opravdu p. Zemana DOPORUČUJI !!!",
+            "rating": 4.3,
+            "author": null,
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-09",
+            "title": "Čištění rohového gauče, křesla a taburetů",
+            "quote": "Communication was pleasant, the work was done perfectly, the appointment was kept and the agreed price was honoured. Satisfied.",
+            "originalQuote": "Jednání bylo příjemné.Práce byla provedena perfektně.. Termín dodržen. Částka k zhaplacení také dodržena - spokojenost.",
+            "rating": 5,
+            "author": "Ilona Štorkánová",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-10",
+            "title": "Čištění koberců",
+            "quote": "Recommended.",
+            "originalQuote": "Doporučuji",
+            "rating": 5,
+            "author": null,
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-11",
+            "title": "Čištění sedací soupravy",
+            "quote": "I was very satisfied.",
+            "originalQuote": "Byla jsem velice spokojená",
+            "rating": 5,
+            "author": "Plochová",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-12",
+            "title": "Čištění sedací soupravy",
+            "quote": "Mr Zeman was kind and helpful. We arranged the quote and appointment quickly. He arrived on time, inspected the sofa and explained that some stains might remain. He protected the floor during cleaning, finished in about an hour and the sofa was dry by the next day. Some marks remained as expected, but I was satisfied, and he even reduced the agreed price. I definitely recommend him.",
+            "originalQuote": "Pan Zeman byl velmi milý, ochotný. Domluva byla rychlá, kalkulaci mi poslal do druhého dne, termín jsme našli rychle. Přijel načas, gauč si nejdříve prohlédl a upozornil, že některé skvrny nejspíš zůstanou. Během čištění dával pozor, aby voda netekla po podlaze. Celá návštěva trvala asi hodinu. Úplně suchá byla sedačka do druhého dne. S výsledkem jsem spokojená, i když opravdu několik fleků zůstalo. S tím jsem ale byla smířená předem, protože máme světlou barvu a dvouleté dítě. Nakonec mě pan Zeman potěšil celkem výrazným snížením dohodnuté ceny. Jednoznačně doporučuji.",
+            "rating": null,
+            "author": null,
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-13",
+            "title": "Čištění koberců a sedačky",
+            "quote": "I am very satisfied. Mr Zeman is friendly and helpful, and the work was of very high quality. I will definitely book again. Thank you. — Tomašovičová",
+            "originalQuote": "Jsem velice spokojena,pan Zeman je velice příjemný a ochotný.Práce odvedena velice kvalitně, určitě si firmu zase objednám. Zde je vidět že jsou lidé na správném místě, děkuji Tomašovičová,",
+            "rating": 5,
+            "author": "Tomašovičová",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-14",
+            "title": "Strojové čištění koberců",
+            "quote": "Very satisfied, highly recommended.",
+            "originalQuote": "super spokojenost můžu doporučit",
+            "rating": 5,
+            "author": "Lukašova",
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-15",
+            "title": "Čištění koberců, oken a sedačky",
+            "quote": "Absolutely satisfied. Precise work: carpet and window cleaning met our expectations, and the sofa looks like new. The agreed time was kept and the price was even lower than quoted. We warmly recommend the service.",
+            "originalQuote": "Naprostá spokojenost, precizně provedená práce, čištění koberců i mytí oken splnilo naše očekávání, sedací souprava je rovněž jako nová. Termín i čas byl dodržen, cena byla dokonce nižší, než dohodnutá. Celkově jsme velmi spokojeni, můžeme vřele doporučit.",
+            "rating": null,
+            "author": null,
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          },
+          {
+            "id": "nejremeslnici-16",
+            "title": "Pravidelné čištění koberců a čalounění",
+            "quote": "I have used and recommended this cleaning business for several years and have always been satisfied with the quality. Appointments and prices were honoured. Mr Zeman's business has always stood for quality and reliability for me and my acquaintances.",
+            "originalQuote": "Úklidovou firmu používám a doporučuji již několik let, vždy jsem velmi spokojena s kvalitou práce. Termín byl dodržen a cena taktéž.Úklidová firma pana Aleše Zemana vždy pro mě a mé známé byla známkou vysoké kvality a serióznosti.",
+            "rating": 5,
+            "author": null,
+            "source": "NejŘemeslníci.cz",
+            "sourceUrl": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
+            "verifiedByPlatform": false,
+            "supplierReply": null
+          }
+        ]
       }
     }
   },
@@ -1012,8 +1424,14 @@ Error generating stack: `+e.message+`
         ],
         "facebook": "No attributable official Facebook profile found; leave business.social.facebook empty.",
         "note": "Dynamic counts are not hardcoded in public copy. Link to original review platforms."
+      },
+      "customerTestimonials": {
+        "addedOn": "2026-10-31",
+        "count": 16,
+        "source": "User-uploaded screenshots of NejŘemeslníci.cz customer reviews",
+        "notes": "Quotes transcribed from screenshots, original typos retained; EN versions are translations. Ratings only where visible. No photos available. One supplier response and one platform verified label visible. Do not present all as platform verified."
       }
     }
   }
 }
-`),Bu=zu.public.cs,Vu=`tel:${zu.business.phone.replace(/\s/g,``)}`;function Hu(){return(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-7xl font-bold text-foreground`,children:`404`}),(0,V.jsx)(`h2`,{className:`mt-4 text-xl font-semibold text-foreground`,children:`Page not found`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`The page you're looking for doesn't exist or has been moved.`}),(0,V.jsx)(`div`,{className:`mt-6`,children:(0,V.jsx)($c,{to:`/`,className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Go home`})})]})})}function Uu({error:e,reset:t}){console.error(e);let n=rc();return(0,B.useEffect)(()=>{Iu(e,{boundary:`tanstack_root_error_component`})},[e]),(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-xl font-semibold tracking-tight text-foreground`,children:`This page didn't load`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`Something went wrong on our end. You can try refreshing or head back home.`}),(0,V.jsxs)(`div`,{className:`mt-6 flex flex-wrap justify-center gap-2`,children:[(0,V.jsx)(`button`,{onClick:()=>{n.invalidate(),t()},className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Try again`}),(0,V.jsx)(`a`,{href:`/`,className:`inline-flex items-center justify-center rounded-md border border-input bg-background px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-accent`,children:`Go home`})]})]})})}var Wu=rl()({head:()=>({meta:[{charSet:`utf-8`},{name:`viewport`,content:`width=device-width, initial-scale=1`},{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{name:`author`,content:zu.business.name},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`}],links:[{rel:`stylesheet`,href:Fu},{rel:`preconnect`,href:`https://fonts.googleapis.com`},{rel:`preconnect`,href:`https://fonts.gstatic.com`,crossOrigin:`anonymous`},{rel:`stylesheet`,href:`https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap`}]}),shellComponent:Z,component:Gu,notFoundComponent:Hu,errorComponent:Uu});function Z({children:e}){return(0,V.jsxs)(`html`,{lang:`cs`,children:[(0,V.jsx)(`head`,{children:(0,V.jsx)(jl,{})}),(0,V.jsxs)(`body`,{children:[e,(0,V.jsx)(Nl,{})]})]})}function Gu(){let{queryClient:e}=Wu.useRouteContext();return(0,V.jsx)(Pu,{client:e,children:(0,V.jsx)(gl,{})})}var Ku=`modulepreload`,qu=function(e){return`/`+e},Ju={},Yu=function(e,t,n){let r=Promise.resolve();if(t&&t.length>0){let e=document.getElementsByTagName(`link`),i=document.querySelector(`meta[property=csp-nonce]`),a=i?.nonce||i?.getAttribute(`nonce`);function o(e){return Promise.all(e.map(e=>Promise.resolve(e).then(e=>({status:`fulfilled`,value:e}),e=>({status:`rejected`,reason:e}))))}function s(e){return import.meta.resolve?import.meta.resolve(e):new URL(e,import.meta.url).href}r=o(t.map(t=>{if(t=qu(t,n),t=s(t),t in Ju)return;Ju[t]=!0;let r=t.endsWith(`.css`);for(let n=e.length-1;n>=0;n--){let i=e[n];if(i.href===t&&(!r||i.rel===`stylesheet`))return}let i=document.createElement(`link`);if(i.rel=r?`stylesheet`:Ku,r||(i.as=`script`),i.crossOrigin=``,i.href=t,a&&i.setAttribute(`nonce`,a),document.head.appendChild(i),r)return new Promise((e,n)=>{i.addEventListener(`load`,e),i.addEventListener(`error`,()=>n(Error(`Unable to preload CSS for ${t}`)))})}))}function i(e){let t=new Event(`vite:preloadError`,{cancelable:!0});if(t.payload=e,window.dispatchEvent(t),!t.defaultPrevented)throw e}return r.then(t=>{for(let e of t||[])e.status===`rejected`&&i(e.reason);return e().catch(i)})},Xu={IndexRoute:ol(`/`)({head:()=>({meta:[{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`},{name:`robots`,content:`noindex, nofollow`}]}),component:sl(()=>Yu(()=>import(`./routes-62PRO1Dk.js`),[]),`component`)}).update({id:`/`,path:`/`,getParentRoute:()=>Wu})},Zu=Wu._addFileChildren(Xu),Qu=()=>Sl({routeTree:Zu,context:{queryClient:new Mu},scrollRestoration:!0,defaultPreloadStaleTime:0});async function $u(){let e=await Qu(),t;if(Bl){let n=await Bl.getOptions();n.serializationAdapters=n.serializationAdapters??[],window.__TSS_START_OPTIONS__=n,t=n.serializationAdapters,e.options.defaultSsr=n.defaultSsr}else t=[],window.__TSS_START_OPTIONS__={serializationAdapters:t};return t.push(Vs),e.options.serializationAdapters&&t.push(...e.options.serializationAdapters),e.update({basepath:``,serializationAdapters:t}),e.stores.ids.get().length||await qn(e),e}var ed=$u;function td(){return ed().finally(()=>window.$_TSR?.h())}var nd;function rd(){return nd||=td(),(0,V.jsx)(qs,{promise:nd,children:e=>(0,V.jsx)(Tl,{router:e})})}var id=g();(0,B.startTransition)(()=>{(0,id.hydrateRoot)(document,(0,V.jsx)(B.StrictMode,{children:(0,V.jsx)(rd,{})}))});export{u as a,Gs as i,Vu as n,c as o,zu as r,Bu as t};
+`),Bu=zu.public.cs,Vu=`tel:${zu.business.phone.replace(/\s/g,``)}`;function Hu(){return(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-7xl font-bold text-foreground`,children:`404`}),(0,V.jsx)(`h2`,{className:`mt-4 text-xl font-semibold text-foreground`,children:`Page not found`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`The page you're looking for doesn't exist or has been moved.`}),(0,V.jsx)(`div`,{className:`mt-6`,children:(0,V.jsx)($c,{to:`/`,className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Go home`})})]})})}function Uu({error:e,reset:t}){console.error(e);let n=rc();return(0,B.useEffect)(()=>{Iu(e,{boundary:`tanstack_root_error_component`})},[e]),(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-xl font-semibold tracking-tight text-foreground`,children:`This page didn't load`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`Something went wrong on our end. You can try refreshing or head back home.`}),(0,V.jsxs)(`div`,{className:`mt-6 flex flex-wrap justify-center gap-2`,children:[(0,V.jsx)(`button`,{onClick:()=>{n.invalidate(),t()},className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Try again`}),(0,V.jsx)(`a`,{href:`/`,className:`inline-flex items-center justify-center rounded-md border border-input bg-background px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-accent`,children:`Go home`})]})]})})}var Wu=rl()({head:()=>({meta:[{charSet:`utf-8`},{name:`viewport`,content:`width=device-width, initial-scale=1`},{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{name:`author`,content:zu.business.name},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`}],links:[{rel:`stylesheet`,href:Fu},{rel:`preconnect`,href:`https://fonts.googleapis.com`},{rel:`preconnect`,href:`https://fonts.gstatic.com`,crossOrigin:`anonymous`},{rel:`stylesheet`,href:`https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap`}]}),shellComponent:Z,component:Gu,notFoundComponent:Hu,errorComponent:Uu});function Z({children:e}){return(0,V.jsxs)(`html`,{lang:`cs`,children:[(0,V.jsx)(`head`,{children:(0,V.jsx)(jl,{})}),(0,V.jsxs)(`body`,{children:[e,(0,V.jsx)(Nl,{})]})]})}function Gu(){let{queryClient:e}=Wu.useRouteContext();return(0,V.jsx)(Pu,{client:e,children:(0,V.jsx)(gl,{})})}var Ku=`modulepreload`,qu=function(e){return`/`+e},Ju={},Yu=function(e,t,n){let r=Promise.resolve();if(t&&t.length>0){let e=document.getElementsByTagName(`link`),i=document.querySelector(`meta[property=csp-nonce]`),a=i?.nonce||i?.getAttribute(`nonce`);function o(e){return Promise.all(e.map(e=>Promise.resolve(e).then(e=>({status:`fulfilled`,value:e}),e=>({status:`rejected`,reason:e}))))}function s(e){return import.meta.resolve?import.meta.resolve(e):new URL(e,import.meta.url).href}r=o(t.map(t=>{if(t=qu(t,n),t=s(t),t in Ju)return;Ju[t]=!0;let r=t.endsWith(`.css`);for(let n=e.length-1;n>=0;n--){let i=e[n];if(i.href===t&&(!r||i.rel===`stylesheet`))return}let i=document.createElement(`link`);if(i.rel=r?`stylesheet`:Ku,r||(i.as=`script`),i.crossOrigin=``,i.href=t,a&&i.setAttribute(`nonce`,a),document.head.appendChild(i),r)return new Promise((e,n)=>{i.addEventListener(`load`,e),i.addEventListener(`error`,()=>n(Error(`Unable to preload CSS for ${t}`)))})}))}function i(e){let t=new Event(`vite:preloadError`,{cancelable:!0});if(t.payload=e,window.dispatchEvent(t),!t.defaultPrevented)throw e}return r.then(t=>{for(let e of t||[])e.status===`rejected`&&i(e.reason);return e().catch(i)})},Xu={IndexRoute:ol(`/`)({head:()=>({meta:[{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`},{name:`robots`,content:`noindex, nofollow`}]}),component:sl(()=>Yu(()=>import(`./routes-CL-J2fUE.js`),[]),`component`)}).update({id:`/`,path:`/`,getParentRoute:()=>Wu})},Zu=Wu._addFileChildren(Xu),Qu=()=>Sl({routeTree:Zu,context:{queryClient:new Mu},scrollRestoration:!0,defaultPreloadStaleTime:0});async function $u(){let e=await Qu(),t;if(Bl){let n=await Bl.getOptions();n.serializationAdapters=n.serializationAdapters??[],window.__TSS_START_OPTIONS__=n,t=n.serializationAdapters,e.options.defaultSsr=n.defaultSsr}else t=[],window.__TSS_START_OPTIONS__={serializationAdapters:t};return t.push(Vs),e.options.serializationAdapters&&t.push(...e.options.serializationAdapters),e.update({basepath:``,serializationAdapters:t}),e.stores.ids.get().length||await qn(e),e}var ed=$u;function td(){return ed().finally(()=>window.$_TSR?.h())}var nd;function rd(){return nd||=td(),(0,V.jsx)(qs,{promise:nd,children:e=>(0,V.jsx)(Tl,{router:e})})}var id=g();(0,B.startTransition)(()=>{(0,id.hydrateRoot)(document,(0,V.jsx)(B.StrictMode,{children:(0,V.jsx)(rd,{})}))});export{u as a,Gs as i,Vu as n,c as o,zu as r,Bu as t};
