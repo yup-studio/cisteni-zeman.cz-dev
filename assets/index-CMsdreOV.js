@@ -25,7 +25,8 @@ Error generating stack: `+e.message+`
     "defaultLanguageStrategy": "browser",
     "fallbackLanguage": "cs",
     "languages": [
-      "cs"
+      "cs",
+      "en"
     ]
   },
   "business": {
@@ -51,47 +52,750 @@ Error generating stack: `+e.message+`
   "public": {
     "cs": {
       "seo": {
-        "title": "Čištění koberců a sedaček Kladno | Aleš Zeman",
-        "description": "Čištění koberců, sedaček, čalounění a interiérů aut. Mytí oken a úklid společných prostor. Kontaktujte Aleše Zemana v Kladně."
+        "title": "Čištění koberců, sedaček a mytí oken | Kladno, Praha | Aleš Zeman",
+        "description": "Aleš Zeman nabízí od roku 1998 extrakční čištění koberců, sedaček, interiérů aut, mytí oken i pravidelný úklid SVJ. Kladno, Praha a Středočeský kraj."
       },
       "hero": {
-        "title": "Čištění koberců a sedaček v Kladně",
-        "text": "Čištění koberců, sedaček, čalounění a interiérů automobilů. Zajišťujeme také mytí oken a úklid společných prostor.",
+        "title": "Profesionální čištění koberců, sedaček a mytí oken",
+        "text": "Aleš Zeman poskytuje úklidové služby od roku 1998. Přijedeme za vámi do Kladna, Prahy, Slaného, Rakovníka, Berouna a dalších míst Středočeského kraje. Pro domácnosti, firmy, školy i bytové domy.",
         "primaryCta": "Zavolat: 608 147 779",
-        "secondaryCta": "Naše služby"
+        "secondaryCta": "Prohlédnout služby"
       },
       "services": [
         {
           "key": "carpets",
           "title": "Čištění koberců",
-          "text": "Čištění koberců v domácnostech i firemních prostorách."
+          "text": "Strojové extrakční čištění celoplošných i kusových koberců v domácnostech, kancelářích, školách, obchodech, hotelech a dalších provozech. Součástí je suché vysávání. Orientační schnutí 2–5 hodin.",
+          "details": [
+            "Profesionální extraktory s vysokým sacím výkonem: čistící roztok je vstřikován do vláken a spolu s nečistotami odsáván.",
+            "Čištění napomáhá odstranění skvrn, pachů a oživení barev; výsledek závisí na materiálu a opotřebení.",
+            "Doporučená frekvence: domácnosti zhruba jednou za rok, vysoce zatěžované prostory jednou až dvakrát za rok.",
+            "Cena se odvíjí od plochy, typu koberce, délky vlasu, množství a znečištění."
+          ]
         },
         {
           "key": "upholstery",
           "title": "Čištění sedaček a čalounění",
-          "text": "Čištění sedacích souprav, křesel a čalouněného nábytku."
-        },
-        {
-          "key": "cars",
-          "title": "Čištění interiérů aut",
-          "text": "Čištění automobilových sedadel, koberců a čalouněných částí interiéru."
+          "text": "Hloubkové extrakční čištění látkových sedacích souprav, křesel, židlí, taburetů, kancelářských křesel a matrací. Běžné schnutí zhruba 3–6 hodin.",
+          "details": [
+            "Pouze textilní potahy, které výrobce dovoluje čistit extrakční metodou; kožené sedačky nejsou součástí uvedené služby.",
+            "Speciální hubicí se čistí i obtížně přístupná čalouněná místa.",
+            "Délka čištění běžné sedačky je orientačně hodina, záleží na rozměru a znečištění.",
+            "Součástí čištění je suché vysávání; dobu schnutí ovlivňuje materiál, pokojová teplota a větrání."
+          ]
         },
         {
           "key": "windows",
-          "title": "Mytí oken",
-          "text": "Mytí oken a výloh podle rozsahu zakázky."
+          "title": "Mytí oken, výloh a žaluzií",
+          "text": "Mytí oken v bytech, rodinných domech, kancelářích, školách, obchodech a společných prostorech. Včetně rámů a parapetů; také výlohy, horizontální a vertikální žaluzie.",
+          "details": [
+            "Mytí oken po malování a stavebních úpravách, pravidelné mytí výloh a mytí hůře přístupného prosklení dle dohody.",
+            "Používají se profesionální stěrky a rozmýváky; okolní podlahy a stěny se chrání před znečištěním.",
+            "Cena se počítá podle všech umývaných stran a ploch včetně rámů, členitosti, přístupnosti a znečištění.",
+            "Na požádání lze zajistit sundání a opětovné pověšení záclon nebo závěsů."
+          ]
         },
         {
           "key": "buildings",
-          "title": "Úklid společných prostor",
-          "text": "Úklid společných prostor bytových domů podle dohody."
+          "title": "Pravidelný úklid bytových domů a SVJ",
+          "text": "Úklid společných prostor panelových a bytových domů pro SVJ, bytová družstva a vlastníky nemovitostí. Rozsah a frekvence podle konkrétní dohody.",
+          "details": [
+            "Typický týdenní úklid: zametání a vytírání chodeb a schodišť, výtahy, vstupy, dveře, prosklení, rohožky a venkovní plochy.",
+            "Měsíčně lze zahrnout zábradlí, suterény, sklepy a schránky.",
+            "Dvakrát ročně lze provádět mytí oken, parapetů a osvětlovacích těles.",
+            "Konkrétní četnost i úkony upravuje smlouva a individuální nabídka."
+          ]
+        },
+        {
+          "key": "cars",
+          "title": "Čištění interiérů automobilů",
+          "text": "Čištění automobilů přímo u zákazníka: osobní vozy, SUV, MPV, dodávky, karavany a obytné automobily podle rozsahu zakázky.",
+          "details": [
+            "Extrakční čištění textilních sedadel, opěrek, výplní dveří, koberců a zavazadlového prostoru.",
+            "Ošetření plastových částí, umytí mezidveřních prostor, vnitřních skel a oken.",
+            "Orientační schnutí kolem tří hodin podle materiálu a počasí.",
+            "Cena je stanovena podle velikosti a skutečného znečištění vozidla."
+          ]
         }
       ],
       "contact": {
-        "title": "Domluvte si čištění",
-        "text": "Pro aktuální cenu a termín nás kontaktujte telefonicky nebo e-mailem.",
+        "title": "Domluvte si úklid nebo nezávaznou nabídku",
+        "text": "Zavolejte nebo napište, co potřebujete vyčistit, kde se zakázka nachází a v jakém rozsahu. Potvrdíme vhodný postup, orientační cenu a termín.",
         "phoneLabel": "Zavolat",
         "emailLabel": "Napsat e-mail"
+      },
+      "footer": {
+        "copyright": "Aleš Zeman"
+      },
+      "about": {
+        "title": "Poctivá práce a osobní přístup od roku 1998",
+        "text": "Spokojenost zákazníka pro nás není jen frází, ale hlavním smyslem naší práce. Pracujeme s profesionálními extraktory a atestovanými čisticími prostředky. K zakázkám přistupujeme individuálně, bez skrytých poplatků; při větších objednávkách nebo kombinaci služeb lze domluvit množstevní slevu.",
+        "principles": [
+          "Osobní přístup a snaha najít vhodné řešení",
+          "Domácnosti, firmy, státní a neziskové organizace",
+          "Konečné ceny – nejsme plátci DPH (doprava dle lokality zvlášť)",
+          "Možnost kombinovat služby a domluvit množstevní slevu",
+          "Na původním webu je uvedena garance neplacení při nespokojenosti; podmínky je vhodné potvrdit"
+        ]
+      },
+      "coverage": {
+        "title": "Kde pracujeme",
+        "cities": [
+          "Kladno",
+          "Praha",
+          "Slaný",
+          "Rakovník",
+          "Beroun"
+        ],
+        "text": "Zakázky realizujeme také v dalších místech Středočeského kraje; dostupnost a cenu dopravy potvrdíme před objednávkou."
+      },
+      "pricing": {
+        "title": "Orientační ceník",
+        "intro": "Níže jsou převzaté ceny z hlavní stránky Ceník původního webu. Jde o historicky zveřejněné orientační sazby, které je nutné před publikováním jako aktuální potvrdit.",
+        "currency": "CZK",
+        "items": [
+          {
+            "label": "Mytí oken včetně rámů",
+            "price": "25–35 Kč/m²"
+          },
+          {
+            "label": "Mytí oken po malování / stavebních úpravách",
+            "price": "25–45 Kč/m²"
+          },
+          {
+            "label": "Mytí výloh",
+            "price": "15–20 Kč/m²"
+          },
+          {
+            "label": "Silně znečištěné výlohy",
+            "price": "20–30 Kč/m²"
+          },
+          {
+            "label": "Čištění koberců v domácnosti",
+            "price": "25–40 Kč/m²"
+          },
+          {
+            "label": "Čištění kusových koberců",
+            "price": "100–350 Kč/ks"
+          },
+          {
+            "label": "Čištění koberců v kancelářích",
+            "price": "od 30 Kč/m²"
+          },
+          {
+            "label": "Čištění sedací soupravy",
+            "price": "250–275 Kč / sedací místo"
+          },
+          {
+            "label": "Čištění čalouněného křesla",
+            "price": "300 Kč/ks"
+          },
+          {
+            "label": "Čištění čalouněné židle",
+            "price": "40–50 Kč/ks"
+          },
+          {
+            "label": "Čištění matrace",
+            "price": "70–100 Kč/m²"
+          },
+          {
+            "label": "Mytí horizontálních žaluzií",
+            "price": "20–30 Kč/m²"
+          },
+          {
+            "label": "Čištění vertikálních textilních žaluzií",
+            "price": "65–95 Kč/m²"
+          },
+          {
+            "label": "Čištění interiéru automobilu",
+            "price": "od 1 000 Kč"
+          },
+          {
+            "label": "Pravidelný úklid společných prostor",
+            "price": "individuální nabídka; na původním webu od 1 500–1 600 Kč/měsíc"
+          }
+        ],
+        "transport": [
+          {
+            "label": "Kladno",
+            "price": "100 Kč"
+          },
+          {
+            "label": "Praha",
+            "price": "200 Kč paušálně"
+          },
+          {
+            "label": "Další místa Středočeského kraje",
+            "price": "8 Kč/km"
+          }
+        ],
+        "note": "Na hlavním ceníku je uvedena minimální cena zakázky 1 500 Kč; na starších podstránkách se objevuje 800 Kč. Také doprava do Kladna se liší (50/75/100 Kč) a některé jednotlivé sazby jsou rozdílné. Jako výchozí zdroj je zde použit hlavní ceník, finální ceny a minimum musí potvrdit Aleš Zeman. Uvedené ceny jsou podle původního webu konečné, protože firma není plátcem DPH; doprava se připočítává."
+      },
+      "faq": [
+        {
+          "question": "Jak dlouho předem objednat čištění?",
+          "answer": "Termín se snažíme nabídnout co nejdříve, někdy i na následující den. Na jaře a před Vánoci doporučujeme rezervaci s předstihem."
+        },
+        {
+          "question": "Jak dlouho schnou vyčištěné koberce?",
+          "answer": "Obvykle 2–5 hodin podle délky vlasu, znečištění, teploty a větrání."
+        },
+        {
+          "question": "Jak dlouho schne sedačka?",
+          "answer": "Obvykle 3–6 hodin podle potahového materiálu, provlhčení, teploty a větrání."
+        },
+        {
+          "question": "Čistíte i o víkendech a svátcích?",
+          "answer": "Podle informací na původním webu ano, bez víkendového příplatku; dostupnost termínu ověříme při domluvě."
+        },
+        {
+          "question": "Jak se počítá cena za čištění koberců?",
+          "answer": "Podle skutečně čištěné plochy, materiálu, množství a stupně znečištění. Plocha pod nábytkem, se kterým se nehýbe a nečistí se pod ním, se nezapočítává."
+        },
+        {
+          "question": "Jak se počítá plocha mytých oken?",
+          "answer": "Počítají se všechny umývané strany včetně rámů; standardní plastová okna se obvykle myjí ze dvou stran, špaletová či šroubovaná i ze čtyř."
+        },
+        {
+          "question": "Můžu spojit více služeb?",
+          "answer": "Ano, lze si objednat například čištění koberců spolu se sedačkami nebo mytím oken a domluvit individuální cenu."
+        },
+        {
+          "question": "Jsou ceny konečné?",
+          "answer": "Na původním webu firma uvádí, že není plátcem DPH a neúčtuje skryté poplatky. K ceně služeb se připočítává doprava dle místa zakázky; konečnou nabídku předem ověřte."
+        }
+      ],
+      "references": {
+        "title": "Z našich zákazníků",
+        "intro": "Historické reference zveřejněné Alešem Zemanem na původním webu; nejde o potvrzení aktuální spolupráce.",
+        "items": [
+          {
+            "name": "SOŠ a SOU U Hvězdy, Kladno",
+            "service": "Pravidelné mytí oken"
+          },
+          {
+            "name": "Zařízení sociální intervence, Kladno",
+            "service": "Čištění koberců, úklid, mytí oken"
+          },
+          {
+            "name": "Galerie Langhans, Praha",
+            "service": "Generální úklid"
+          },
+          {
+            "name": "Stavební bytové družstvo Praha 6",
+            "service": "Čištění koberců a mytí oken"
+          },
+          {
+            "name": "Pečovatelská služba Fontána, Kladno",
+            "service": "Čištění koberců a úklid"
+          },
+          {
+            "name": "Odborné učiliště a Praktická škola Kladno–Vrapice",
+            "service": "Mytí oken a generální úklid"
+          },
+          {
+            "name": "Real Satis, Kladno",
+            "service": "Pravidelný denní úklid"
+          },
+          {
+            "name": "Pedagogicko-psychologická poradna Kladno",
+            "service": "Čištění koberců"
+          },
+          {
+            "name": "Muller-Technik CZ, Tuchlovice",
+            "service": "Čištění koberců"
+          },
+          {
+            "name": "Radava SC, Praha",
+            "service": "Čištění koberců"
+          },
+          {
+            "name": "Bess MM, Praha 9",
+            "service": "Čištění koberců"
+          },
+          {
+            "name": "Dartin, Horoměřice",
+            "service": "Mytí oken a čištění koberců"
+          },
+          {
+            "name": "Středisko ROSA Kladno",
+            "service": "Čištění koberců"
+          },
+          {
+            "name": "Bytové družstvo BRONZ, Praha",
+            "service": "Mytí oken"
+          },
+          {
+            "name": "Matex, Kladno",
+            "service": "Mytí výloh"
+          },
+          {
+            "name": "Advokátní kancelář Kladno",
+            "service": "Čištění koberců"
+          },
+          {
+            "name": "IB corp., Kladno",
+            "service": "Pravidelný úklid"
+          },
+          {
+            "name": "Futurum Direkt marketing, Praha 8",
+            "service": "Čištění koberců"
+          },
+          {
+            "name": "Lidl ČR, provozovna Nové Strašecí",
+            "service": "Mytí výloh"
+          },
+          {
+            "name": "Modrá pyramida, pobočka Kladno",
+            "service": "Čištění koberců, mytí výloh a úklid"
+          },
+          {
+            "name": "Luka Consult CZ",
+            "service": "Uvedený zákazník, služba nespecifikována"
+          },
+          {
+            "name": "SVJ Vodárenská 2323, Kladno",
+            "service": "Pravidelný úklid"
+          },
+          {
+            "name": "SVJ Litevská 2605, Kladno",
+            "service": "Úklid a mytí oken"
+          },
+          {
+            "name": "Společenství Helsinská, Kladno",
+            "service": "Pravidelný úklid"
+          },
+          {
+            "name": "SVJ Brněnská 3064–3065, Kladno",
+            "service": "Úklid a mytí oken"
+          },
+          {
+            "name": "SVJ Na Vyhaslém 3176–3177, Kladno",
+            "service": "Pravidelný úklid"
+          },
+          {
+            "name": "Zuckerstein, Praha 6",
+            "service": "Pravidelný úklid rezidencí"
+          },
+          {
+            "name": "SVJ Na Petynce / Rezidence Kajetánka I, Praha",
+            "service": "Pravidelný úklid"
+          },
+          {
+            "name": "Anglický klub Kladno",
+            "service": "Čištění koberců"
+          },
+          {
+            "name": "IDEA4U / Bowling Central Kladno",
+            "service": "Čištění koberců"
+          },
+          {
+            "name": "Jan Zima",
+            "service": "Pravidelné mytí výloh čerpací stanice"
+          },
+          {
+            "name": "VCHD Cargo",
+            "service": "Čištění koberců"
+          },
+          {
+            "name": "BOHEMIA PLAST Group",
+            "service": "Čištění koberců"
+          },
+          {
+            "name": "Advokátní kancelář Kindl Výborčík, Kladno",
+            "service": "Čištění koberců"
+          },
+          {
+            "name": "SVJ Maďarská blok 16, Kladno",
+            "service": "Pravidelný úklid"
+          },
+          {
+            "name": "Ortoptika Kladno",
+            "service": "Pravidelné mytí oken a výloh"
+          },
+          {
+            "name": "MŠ Slaný, Vítězná 1578",
+            "service": "Čištění koberců a čalounění"
+          },
+          {
+            "name": "ZŠ Montessori, Pařížská, Kladno",
+            "service": "Čištění koberců a čalounění"
+          },
+          {
+            "name": "Smart Accounts",
+            "service": "Mytí oken a úklid kanceláří"
+          }
+        ]
+      }
+    },
+    "en": {
+      "seo": {
+        "title": "Carpet & Upholstery Cleaning in Kladno and Prague | Aleš Zeman",
+        "description": "Professional carpet and sofa cleaning, window washing, car interior cleaning and apartment-building upkeep in Kladno, Prague and Central Bohemia since 1998."
+      },
+      "hero": {
+        "title": "Professional carpet, upholstery and window cleaning",
+        "text": "Aleš Zeman has provided cleaning services since 1998. Serving Kladno, Prague, Slaný, Rakovník, Beroun and the Central Bohemian Region, for homes, businesses, schools and residential buildings.",
+        "primaryCta": "Call +420 608 147 779",
+        "secondaryCta": "Explore services"
+      },
+      "services": [
+        {
+          "key": "carpets",
+          "title": "Carpet cleaning",
+          "text": "Professional hot-water extraction for fitted and area rugs in homes, offices, schools, shops and hotels. Dry vacuuming is included; typical drying time is 2–5 hours.",
+          "details": [
+            "Deep extraction cleaning using professional equipment",
+            "Price depends on area, fibre, pile and soiling",
+            "Recommended approximately annually at home, more often for heavy-traffic areas"
+          ]
+        },
+        {
+          "key": "upholstery",
+          "title": "Sofa and upholstery cleaning",
+          "text": "Deep extraction cleaning of fabric sofas, armchairs, chairs, office chairs, stools and mattresses. Typical drying time is 3–6 hours.",
+          "details": [
+            "Fabric upholstery only where extraction cleaning is permitted by the manufacturer",
+            "Special upholstery tools reach corners and edges",
+            "Drying depends on fabric, temperature and ventilation"
+          ]
+        },
+        {
+          "key": "windows",
+          "title": "Window, shopfront and blind cleaning",
+          "text": "Windows for homes, offices, shops, schools and residential buildings, including frames and sills; shopfronts and blinds are also available.",
+          "details": [
+            "Regular and post-construction window cleaning",
+            "Protected floors and surrounding surfaces",
+            "Charges depend on the total cleaned surface, accessibility and soiling"
+          ]
+        },
+        {
+          "key": "buildings",
+          "title": "Cleaning shared areas of apartment buildings",
+          "text": "Regular cleaning of shared spaces for homeowners’ associations, housing cooperatives and property owners; tailored to the building.",
+          "details": [
+            "Weekly stairways, corridors, entrances, lifts and mats",
+            "Optional monthly railings, basements and letterboxes",
+            "Windows, sills and light fittings can be cleaned twice a year"
+          ]
+        },
+        {
+          "key": "cars",
+          "title": "Car interior cleaning",
+          "text": "On-site vehicle interior cleaning, including passenger cars, SUVs, MPVs, vans and campers, subject to the agreed scope.",
+          "details": [
+            "Fabric seats and door trims, carpeting and boot",
+            "Plastic trim treatment and interior glass",
+            "Typical drying time around three hours"
+          ]
+        }
+      ],
+      "about": {
+        "title": "Personal, careful service since 1998",
+        "text": "Customer satisfaction is at the heart of our work. We use professional extraction machines and tested cleaning products, tailor each job to the customer and can offer a volume discount when several services are combined.",
+        "principles": [
+          "Personal service and practical advice",
+          "Homes, businesses, public and non-profit organisations",
+          "The business states that it is not VAT-registered; travel is charged separately",
+          "Combined services and individual quotes available",
+          "The satisfaction guarantee described on the original website should be reconfirmed"
+        ]
+      },
+      "coverage": {
+        "title": "Service area",
+        "cities": [
+          "Kladno",
+          "Praha",
+          "Slaný",
+          "Rakovník",
+          "Beroun"
+        ],
+        "text": "Other locations in Central Bohemia are possible; availability and travel charges are confirmed before booking."
+      },
+      "pricing": {
+        "title": "Indicative price list",
+        "intro": "These prices were published on the original Czech website and have not been reconfirmed as current. Prices are in CZK.",
+        "currency": "CZK",
+        "items": [
+          {
+            "label": "Window cleaning including frames",
+            "price": "CZK 25–35/m²"
+          },
+          {
+            "label": "Post-renovation window cleaning",
+            "price": "CZK 25–45/m²"
+          },
+          {
+            "label": "Shopfront cleaning",
+            "price": "CZK 15–20/m²"
+          },
+          {
+            "label": "Heavily soiled shopfronts",
+            "price": "CZK 20–30/m²"
+          },
+          {
+            "label": "Domestic carpet cleaning",
+            "price": "CZK 25–40/m²"
+          },
+          {
+            "label": "Area rug cleaning",
+            "price": "CZK 100–350/item"
+          },
+          {
+            "label": "Office carpet cleaning",
+            "price": "From CZK 30/m²"
+          },
+          {
+            "label": "Sofa upholstery cleaning",
+            "price": "CZK 250–275/seat"
+          },
+          {
+            "label": "Upholstered armchair",
+            "price": "CZK 300/item"
+          },
+          {
+            "label": "Upholstered chair",
+            "price": "CZK 40–50/item"
+          },
+          {
+            "label": "Mattress cleaning",
+            "price": "CZK 70–100/m²"
+          },
+          {
+            "label": "Horizontal blinds",
+            "price": "CZK 20–30/m²"
+          },
+          {
+            "label": "Vertical fabric blinds",
+            "price": "CZK 65–95/m²"
+          },
+          {
+            "label": "Car interior cleaning",
+            "price": "From CZK 1,000"
+          },
+          {
+            "label": "Shared-building cleaning",
+            "price": "Quote on request; previously advertised from CZK 1,500–1,600/month"
+          }
+        ],
+        "transport": [
+          {
+            "label": "Kladno",
+            "price": "CZK 100"
+          },
+          {
+            "label": "Prague",
+            "price": "CZK 200 flat rate"
+          },
+          {
+            "label": "Other Central Bohemian locations",
+            "price": "CZK 8/km"
+          }
+        ],
+        "note": "The main price list states a CZK 1,500 minimum, but older pages state CZK 800; some travel and service prices also differ. Please confirm all current rates with Aleš Zeman. The original website describes service prices as final as the business is not VAT-registered, with travel charged separately."
+      },
+      "faq": [
+        {
+          "question": "How far ahead should I book?",
+          "answer": "Early bookings are recommended in spring and before Christmas. Short-notice appointments may be possible."
+        },
+        {
+          "question": "How long do carpets take to dry?",
+          "answer": "Usually about 2–5 hours, depending on pile, soiling, temperature and ventilation."
+        },
+        {
+          "question": "How long does a sofa take to dry?",
+          "answer": "Generally about 3–6 hours, depending on the fabric and ventilation."
+        },
+        {
+          "question": "Do you work weekends and public holidays?",
+          "answer": "The original website says yes, without a surcharge; please confirm availability."
+        },
+        {
+          "question": "How is carpet cleaning priced?",
+          "answer": "By the area actually cleaned, material and soiling; areas beneath furniture that is not moved are excluded."
+        },
+        {
+          "question": "How are windows measured?",
+          "answer": "Each washed side including frames counts towards the cleaned surface."
+        },
+        {
+          "question": "Can I combine services?",
+          "answer": "Yes. Combining carpet, upholstery and window cleaning may qualify for a tailored quote."
+        },
+        {
+          "question": "Are your prices final?",
+          "answer": "The original site states the business is not VAT-registered and does not charge hidden fees. Travel is extra; reconfirm the final price before booking."
+        }
+      ],
+      "references": {
+        "title": "Selected clients",
+        "intro": "Historical clients named on Aleš Zeman’s previous website. Listing does not imply an ongoing relationship.",
+        "items": [
+          {
+            "name": "SOŠ a SOU U Hvězdy, Kladno",
+            "service": "Regular window cleaning"
+          },
+          {
+            "name": "Zařízení sociální intervence, Kladno",
+            "service": "Carpet cleaning, general cleaning and window washing"
+          },
+          {
+            "name": "Galerie Langhans, Praha",
+            "service": "Deep cleaning"
+          },
+          {
+            "name": "Stavební bytové družstvo Praha 6",
+            "service": "Carpet and window cleaning"
+          },
+          {
+            "name": "Pečovatelská služba Fontána, Kladno",
+            "service": "Carpet cleaning and general cleaning"
+          },
+          {
+            "name": "Odborné učiliště a Praktická škola Kladno–Vrapice",
+            "service": "Window washing and deep cleaning"
+          },
+          {
+            "name": "Real Satis, Kladno",
+            "service": "Regular daily cleaning"
+          },
+          {
+            "name": "Pedagogicko-psychologická poradna Kladno",
+            "service": "Carpet cleaning"
+          },
+          {
+            "name": "Muller-Technik CZ, Tuchlovice",
+            "service": "Carpet cleaning"
+          },
+          {
+            "name": "Radava SC, Praha",
+            "service": "Carpet cleaning"
+          },
+          {
+            "name": "Bess MM, Praha 9",
+            "service": "Carpet cleaning"
+          },
+          {
+            "name": "Dartin, Horoměřice",
+            "service": "Window and carpet cleaning"
+          },
+          {
+            "name": "Středisko ROSA Kladno",
+            "service": "Carpet cleaning"
+          },
+          {
+            "name": "Bytové družstvo BRONZ, Praha",
+            "service": "Window cleaning"
+          },
+          {
+            "name": "Matex, Kladno",
+            "service": "Shopfront window cleaning"
+          },
+          {
+            "name": "Advokátní kancelář Kladno",
+            "service": "Carpet cleaning"
+          },
+          {
+            "name": "IB corp., Kladno",
+            "service": "Regular cleaning"
+          },
+          {
+            "name": "Futurum Direkt marketing, Praha 8",
+            "service": "Carpet cleaning"
+          },
+          {
+            "name": "Lidl ČR, provozovna Nové Strašecí",
+            "service": "Shopfront window cleaning"
+          },
+          {
+            "name": "Modrá pyramida, pobočka Kladno",
+            "service": "Carpet cleaning, shopfront washing and general cleaning"
+          },
+          {
+            "name": "Luka Consult CZ",
+            "service": "Listed client; service not specified"
+          },
+          {
+            "name": "SVJ Vodárenská 2323, Kladno",
+            "service": "Regular cleaning"
+          },
+          {
+            "name": "SVJ Litevská 2605, Kladno",
+            "service": "Cleaning and window washing"
+          },
+          {
+            "name": "Společenství Helsinská, Kladno",
+            "service": "Regular cleaning"
+          },
+          {
+            "name": "SVJ Brněnská 3064–3065, Kladno",
+            "service": "Cleaning and window washing"
+          },
+          {
+            "name": "SVJ Na Vyhaslém 3176–3177, Kladno",
+            "service": "Regular cleaning"
+          },
+          {
+            "name": "Zuckerstein, Praha 6",
+            "service": "Regular residential property cleaning"
+          },
+          {
+            "name": "SVJ Na Petynce / Rezidence Kajetánka I, Praha",
+            "service": "Regular cleaning"
+          },
+          {
+            "name": "Anglický klub Kladno",
+            "service": "Carpet cleaning"
+          },
+          {
+            "name": "IDEA4U / Bowling Central Kladno",
+            "service": "Carpet cleaning"
+          },
+          {
+            "name": "Jan Zima",
+            "service": "Regular filling-station window washing"
+          },
+          {
+            "name": "VCHD Cargo",
+            "service": "Carpet cleaning"
+          },
+          {
+            "name": "BOHEMIA PLAST Group",
+            "service": "Carpet cleaning"
+          },
+          {
+            "name": "Advokátní kancelář Kindl Výborčík, Kladno",
+            "service": "Carpet cleaning"
+          },
+          {
+            "name": "SVJ Maďarská blok 16, Kladno",
+            "service": "Regular cleaning"
+          },
+          {
+            "name": "Ortoptika Kladno",
+            "service": "Regular window and shopfront washing"
+          },
+          {
+            "name": "MŠ Slaný, Vítězná 1578",
+            "service": "Carpet and upholstery cleaning"
+          },
+          {
+            "name": "ZŠ Montessori, Pařížská, Kladno",
+            "service": "Carpet and upholstery cleaning"
+          },
+          {
+            "name": "Smart Accounts",
+            "service": "Window washing and office cleaning"
+          }
+        ]
+      },
+      "contact": {
+        "title": "Request a cleaning appointment or a quote",
+        "text": "Call or email with the type of cleaning, location and approximate scope. We will discuss the approach, indicative price and availability.",
+        "phoneLabel": "Call",
+        "emailLabel": "Send an email"
       },
       "footer": {
         "copyright": "Aleš Zeman"
@@ -166,7 +870,31 @@ Error generating stack: `+e.message+`
     "cookies": {
       "defaultEnabled": false,
       "enableWhenRequiredByTrackingOrAnalytics": true
+    },
+    "contentAudit": {
+      "sourceWebsite": "https://uklidove-firmy-az.estranky.cz/",
+      "reviewedDate": "2026-10-31",
+      "pagesReviewed": [
+        "/",
+        "/clanky/cisteni-kobercu-praha-kladno.html",
+        "/clanky/cisteni-sedacek-praha-kladno.html",
+        "/clanky/myti-oken-praha-kladno.html",
+        "/clanky/uklid-spolecnych-prostor-bytovych-domu.html",
+        "/clanky/cisteni-interieru-aut-praha-kladno.html",
+        "/clanky/cenik.html",
+        "/clanky/nejcastejsi-dotazy.html",
+        "/clanky/nasi-zakaznici.html",
+        "/clanky/kontakty.html"
+      ],
+      "needsClientConfirmation": [
+        "Price list and minimum order due to inconsistent older pages",
+        "Travel price for Kladno and regional mileage",
+        "Permission to republish named customer references and original photos",
+        "Current availability and scope of niche services, including high-level window washing",
+        "Validity and terms of the satisfaction guarantee"
+      ],
+      "assetStatus": "Photos from the original site have not been copied; approvedImages stays empty until rights and source files are confirmed."
     }
   }
 }
-`),Bu=zu.public.cs,Vu=`tel:${zu.business.phone.replace(/\s/g,``)}`;function Hu(){return(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-7xl font-bold text-foreground`,children:`404`}),(0,V.jsx)(`h2`,{className:`mt-4 text-xl font-semibold text-foreground`,children:`Page not found`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`The page you're looking for doesn't exist or has been moved.`}),(0,V.jsx)(`div`,{className:`mt-6`,children:(0,V.jsx)($c,{to:`/`,className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Go home`})})]})})}function Uu({error:e,reset:t}){console.error(e);let n=rc();return(0,B.useEffect)(()=>{Iu(e,{boundary:`tanstack_root_error_component`})},[e]),(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-xl font-semibold tracking-tight text-foreground`,children:`This page didn't load`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`Something went wrong on our end. You can try refreshing or head back home.`}),(0,V.jsxs)(`div`,{className:`mt-6 flex flex-wrap justify-center gap-2`,children:[(0,V.jsx)(`button`,{onClick:()=>{n.invalidate(),t()},className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Try again`}),(0,V.jsx)(`a`,{href:`/`,className:`inline-flex items-center justify-center rounded-md border border-input bg-background px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-accent`,children:`Go home`})]})]})})}var Wu=rl()({head:()=>({meta:[{charSet:`utf-8`},{name:`viewport`,content:`width=device-width, initial-scale=1`},{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{name:`author`,content:zu.business.name},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`}],links:[{rel:`stylesheet`,href:Fu},{rel:`preconnect`,href:`https://fonts.googleapis.com`},{rel:`preconnect`,href:`https://fonts.gstatic.com`,crossOrigin:`anonymous`},{rel:`stylesheet`,href:`https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap`}]}),shellComponent:Z,component:Gu,notFoundComponent:Hu,errorComponent:Uu});function Z({children:e}){return(0,V.jsxs)(`html`,{lang:`cs`,children:[(0,V.jsx)(`head`,{children:(0,V.jsx)(jl,{})}),(0,V.jsxs)(`body`,{children:[e,(0,V.jsx)(Nl,{})]})]})}function Gu(){let{queryClient:e}=Wu.useRouteContext();return(0,V.jsx)(Pu,{client:e,children:(0,V.jsx)(gl,{})})}var Ku=`modulepreload`,qu=function(e){return`/`+e},Ju={},Yu=function(e,t,n){let r=Promise.resolve();if(t&&t.length>0){let e=document.getElementsByTagName(`link`),i=document.querySelector(`meta[property=csp-nonce]`),a=i?.nonce||i?.getAttribute(`nonce`);function o(e){return Promise.all(e.map(e=>Promise.resolve(e).then(e=>({status:`fulfilled`,value:e}),e=>({status:`rejected`,reason:e}))))}function s(e){return import.meta.resolve?import.meta.resolve(e):new URL(e,import.meta.url).href}r=o(t.map(t=>{if(t=qu(t,n),t=s(t),t in Ju)return;Ju[t]=!0;let r=t.endsWith(`.css`);for(let n=e.length-1;n>=0;n--){let i=e[n];if(i.href===t&&(!r||i.rel===`stylesheet`))return}let i=document.createElement(`link`);if(i.rel=r?`stylesheet`:Ku,r||(i.as=`script`),i.crossOrigin=``,i.href=t,a&&i.setAttribute(`nonce`,a),document.head.appendChild(i),r)return new Promise((e,n)=>{i.addEventListener(`load`,e),i.addEventListener(`error`,()=>n(Error(`Unable to preload CSS for ${t}`)))})}))}function i(e){let t=new Event(`vite:preloadError`,{cancelable:!0});if(t.payload=e,window.dispatchEvent(t),!t.defaultPrevented)throw e}return r.then(t=>{for(let e of t||[])e.status===`rejected`&&i(e.reason);return e().catch(i)})},Xu={IndexRoute:ol(`/`)({head:()=>({meta:[{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`},{name:`robots`,content:`noindex, nofollow`}]}),component:sl(()=>Yu(()=>import(`./routes-n-sLcPWC.js`),[]),`component`)}).update({id:`/`,path:`/`,getParentRoute:()=>Wu})},Zu=Wu._addFileChildren(Xu),Qu=()=>Sl({routeTree:Zu,context:{queryClient:new Mu},scrollRestoration:!0,defaultPreloadStaleTime:0});async function $u(){let e=await Qu(),t;if(Bl){let n=await Bl.getOptions();n.serializationAdapters=n.serializationAdapters??[],window.__TSS_START_OPTIONS__=n,t=n.serializationAdapters,e.options.defaultSsr=n.defaultSsr}else t=[],window.__TSS_START_OPTIONS__={serializationAdapters:t};return t.push(Vs),e.options.serializationAdapters&&t.push(...e.options.serializationAdapters),e.update({basepath:``,serializationAdapters:t}),e.stores.ids.get().length||await qn(e),e}var ed=$u;function td(){return ed().finally(()=>window.$_TSR?.h())}var nd;function rd(){return nd||=td(),(0,V.jsx)(qs,{promise:nd,children:e=>(0,V.jsx)(Tl,{router:e})})}var id=g();(0,B.startTransition)(()=>{(0,id.hydrateRoot)(document,(0,V.jsx)(B.StrictMode,{children:(0,V.jsx)(rd,{})}))});export{u as a,Gs as i,Vu as n,c as o,zu as r,Bu as t};
+`),Bu=zu.public.cs,Vu=`tel:${zu.business.phone.replace(/\s/g,``)}`;function Hu(){return(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-7xl font-bold text-foreground`,children:`404`}),(0,V.jsx)(`h2`,{className:`mt-4 text-xl font-semibold text-foreground`,children:`Page not found`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`The page you're looking for doesn't exist or has been moved.`}),(0,V.jsx)(`div`,{className:`mt-6`,children:(0,V.jsx)($c,{to:`/`,className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Go home`})})]})})}function Uu({error:e,reset:t}){console.error(e);let n=rc();return(0,B.useEffect)(()=>{Iu(e,{boundary:`tanstack_root_error_component`})},[e]),(0,V.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-background px-4`,children:(0,V.jsxs)(`div`,{className:`max-w-md text-center`,children:[(0,V.jsx)(`h1`,{className:`text-xl font-semibold tracking-tight text-foreground`,children:`This page didn't load`}),(0,V.jsx)(`p`,{className:`mt-2 text-sm text-muted-foreground`,children:`Something went wrong on our end. You can try refreshing or head back home.`}),(0,V.jsxs)(`div`,{className:`mt-6 flex flex-wrap justify-center gap-2`,children:[(0,V.jsx)(`button`,{onClick:()=>{n.invalidate(),t()},className:`inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90`,children:`Try again`}),(0,V.jsx)(`a`,{href:`/`,className:`inline-flex items-center justify-center rounded-md border border-input bg-background px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-accent`,children:`Go home`})]})]})})}var Wu=rl()({head:()=>({meta:[{charSet:`utf-8`},{name:`viewport`,content:`width=device-width, initial-scale=1`},{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{name:`author`,content:zu.business.name},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`}],links:[{rel:`stylesheet`,href:Fu},{rel:`preconnect`,href:`https://fonts.googleapis.com`},{rel:`preconnect`,href:`https://fonts.gstatic.com`,crossOrigin:`anonymous`},{rel:`stylesheet`,href:`https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap`}]}),shellComponent:Z,component:Gu,notFoundComponent:Hu,errorComponent:Uu});function Z({children:e}){return(0,V.jsxs)(`html`,{lang:`cs`,children:[(0,V.jsx)(`head`,{children:(0,V.jsx)(jl,{})}),(0,V.jsxs)(`body`,{children:[e,(0,V.jsx)(Nl,{})]})]})}function Gu(){let{queryClient:e}=Wu.useRouteContext();return(0,V.jsx)(Pu,{client:e,children:(0,V.jsx)(gl,{})})}var Ku=`modulepreload`,qu=function(e){return`/`+e},Ju={},Yu=function(e,t,n){let r=Promise.resolve();if(t&&t.length>0){let e=document.getElementsByTagName(`link`),i=document.querySelector(`meta[property=csp-nonce]`),a=i?.nonce||i?.getAttribute(`nonce`);function o(e){return Promise.all(e.map(e=>Promise.resolve(e).then(e=>({status:`fulfilled`,value:e}),e=>({status:`rejected`,reason:e}))))}function s(e){return import.meta.resolve?import.meta.resolve(e):new URL(e,import.meta.url).href}r=o(t.map(t=>{if(t=qu(t,n),t=s(t),t in Ju)return;Ju[t]=!0;let r=t.endsWith(`.css`);for(let n=e.length-1;n>=0;n--){let i=e[n];if(i.href===t&&(!r||i.rel===`stylesheet`))return}let i=document.createElement(`link`);if(i.rel=r?`stylesheet`:Ku,r||(i.as=`script`),i.crossOrigin=``,i.href=t,a&&i.setAttribute(`nonce`,a),document.head.appendChild(i),r)return new Promise((e,n)=>{i.addEventListener(`load`,e),i.addEventListener(`error`,()=>n(Error(`Unable to preload CSS for ${t}`)))})}))}function i(e){let t=new Event(`vite:preloadError`,{cancelable:!0});if(t.payload=e,window.dispatchEvent(t),!t.defaultPrevented)throw e}return r.then(t=>{for(let e of t||[])e.status===`rejected`&&i(e.reason);return e().catch(i)})},Xu={IndexRoute:ol(`/`)({head:()=>({meta:[{title:Bu.seo.title},{name:`description`,content:Bu.seo.description},{property:`og:title`,content:Bu.seo.title},{property:`og:description`,content:Bu.seo.description},{property:`og:type`,content:`website`},{name:`twitter:card`,content:`summary_large_image`},{name:`robots`,content:`noindex, nofollow`}]}),component:sl(()=>Yu(()=>import(`./routes-LnvUuLUn.js`),[]),`component`)}).update({id:`/`,path:`/`,getParentRoute:()=>Wu})},Zu=Wu._addFileChildren(Xu),Qu=()=>Sl({routeTree:Zu,context:{queryClient:new Mu},scrollRestoration:!0,defaultPreloadStaleTime:0});async function $u(){let e=await Qu(),t;if(Bl){let n=await Bl.getOptions();n.serializationAdapters=n.serializationAdapters??[],window.__TSS_START_OPTIONS__=n,t=n.serializationAdapters,e.options.defaultSsr=n.defaultSsr}else t=[],window.__TSS_START_OPTIONS__={serializationAdapters:t};return t.push(Vs),e.options.serializationAdapters&&t.push(...e.options.serializationAdapters),e.update({basepath:``,serializationAdapters:t}),e.stores.ids.get().length||await qn(e),e}var ed=$u;function td(){return ed().finally(()=>window.$_TSR?.h())}var nd;function rd(){return nd||=td(),(0,V.jsx)(qs,{promise:nd,children:e=>(0,V.jsx)(Tl,{router:e})})}var id=g();(0,B.startTransition)(()=>{(0,id.hydrateRoot)(document,(0,V.jsx)(B.StrictMode,{children:(0,V.jsx)(rd,{})}))});export{u as a,Gs as i,Vu as n,c as o,zu as r,Bu as t};
