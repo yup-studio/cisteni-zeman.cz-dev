@@ -103,7 +103,7 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
               "Posouzení typu vláken, výšky vlasu a znečištění"
             ],
             "limitations": "U zašlých, opotřebených či sluncem vyšisovaných vláken není vždy možné obnovit původní vzhled ani odstranit všechny skvrny. Výsledek a reálné možnosti předem vysvětlíme.",
-            "technique": "Používáme výkonné extraktory TRON, mimo jiné model LAVATRON 50, který je na původním webu popsán se dvěma sacími turbínami, 15l zásobníkem roztoku a 50l nerezovou nádobou na odsátou vodu.",
+            "technique": "Koberce hloubkově čistíme výkonnými extraktory TRON, včetně modelu LAVATRON 50 se dvěma sacími turbínami, 15litrovou nádrží na čisticí roztok a 50litrovou nerezovou nádobou na odsátou vodu.",
             "recommendedFrequency": "V domácnostech většinou jednou ročně. U hodně zatěžovaných koberců, například na chodbách, v kancelářích či hotelech, nejméně jednou a ideálně dvakrát ročně.",
             "serviceContext": "Domácnosti, školy, školky, kanceláře, obchody, restaurace, hotely, penziony a další provozy."
           }
@@ -145,7 +145,7 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
               "Speciální hubice pro nepřístupná místa"
             ],
             "limitations": "Čistíme pouze vhodné textilní potahy, nikoli kůži. Mechanické opotřebení, vyblednutí a některé trvalé skvrny nemusí zmizet. Předem upozorníme na očekávaný výsledek.",
-            "technique": "Extrakční stroj s vysokým sacím výkonem a úzkou hubicí pro čalounění pomáhá čistit také částečně pod povrchem potahu. Na původním webu je uváděno odsátí až 90 % aplikované vody; jde o údaj závislý na konkrétním materiálu a podmínkách.",
+            "technique": "Extrakční stroj s vysokým sacím výkonem a úzkou hubicí pro čalounění čistí i nečistoty částečně pod povrchem potahu. U vhodných materiálů lze odsát až 90 % aplikované vody; skutečné množství závisí na potahu a podmínkách.",
             "recommendedFrequency": "Interval čištění závisí na používání, materiálu a znečištění. U skvrn se vyplatí problém konzultovat co nejdříve.",
             "serviceContext": "Sedačky a křesla v domácnostech, kancelářské židle, matrace a další vhodné textilní čalounění."
           }
@@ -187,7 +187,7 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
               "Mytí horizontálních i čištění vertikálních žaluzií podle zakázky"
             ],
             "limitations": "Cena se počítá ze součtu skutečně mytých stran včetně rámů, nikoliv jen z rozměru otvoru. Obtížně přístupná a výšková okna řešíme individuálně.",
-            "technique": "Profesionální rozmýváky a stěrky; u rozsáhlejších zakázek individuální pracovní postup. Původní web uvádí také možnost zajištění výškového mytí za použití horolezecké techniky.",
+            "technique": "Používáme profesionální rozmýváky a stěrky a pro větší zakázky volíme vhodný pracovní postup. Po individuální domluvě zajišťujeme i výškové mytí oken pomocí horolezecké techniky.",
             "recommendedFrequency": "Výlohy často každých 14 dní nebo jednou měsíčně; ostatní okna podle potřeby a provozu.",
             "serviceContext": "Byty, rodinné domy, obchody, administrativní budovy, školy, hotely a společné prostory domů."
           }
@@ -405,7 +405,7 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
         },
         {
           "question": "Čistíte i o víkendech a svátcích?",
-          "answer": "Podle informací na původním webu ano, bez víkendového příplatku; dostupnost termínu ověříme při domluvě."
+          "answer": "Ano, po domluvě pracujeme také o víkendech a svátcích, bez víkendového příplatku. Dostupné termíny vám potvrdíme při objednávce."
         },
         {
           "question": "Jak se počítá cena za čištění koberců?",
@@ -421,7 +421,7 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
         },
         {
           "question": "Jsou ceny konečné?",
-          "answer": "Na původním webu firma uvádí, že není plátcem DPH a neúčtuje skryté poplatky. K ceně služeb se připočítává doprava dle místa zakázky; konečnou nabídku předem ověřte."
+          "answer": "Ano, nejsme plátci DPH a neúčtujeme skryté poplatky. Doprava se připočítává podle místa zakázky. Konečnou cenu si odsouhlasíme před zahájením práce."
         }
       ],
       "references": {
@@ -594,9 +594,7 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
           "S řadou z vás se známe už mnoho let. Za tu dobu jsme spolu nemluvili jen o práci — sdíleli jsme i osobní radosti, starosti a okamžiky, které život přináší. Někteří z vás mi naslouchali a nabídli pomoc i ve chvílích, kdy jsem ji potřeboval já. Toho si nesmírně vážím.",
           "Roky ubíhají, ale stále se chci snažit, abyste byli s mou prací spokojeni a měli důvod se na mě znovu obracet. Děkuji vám za přízeň, otevřenost a za vztahy, které během naší spolupráce vznikly."
         ],
-        "signature": "Aleš Zeman",
-        "sourceUrl": "https://uklidove-firmy-az.estranky.cz/",
-        "editorialNote": "Věrná nová redakční formulace osobního poděkování z původní domovské stránky; nejde o doslovný přepis."
+        "signature": "Aleš Zeman"
       },
       "personalValues": {
         "title": "Co je pro mě důležité",
@@ -631,7 +629,7 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
           {
             "title": "NejŘemeslníci.cz",
             "url": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
-            "description": "Archiv zákaznických referencí"
+            "description": "Zkušenosti a hodnocení zákazníků"
           }
         ]
       },
@@ -851,7 +849,7 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
       },
       "equipment": {
         "title": "Technika, kterou používáme",
-        "text": "Na čištění koberců a čalounění používáme profesionální extraktory s vysokým sacím výkonem. Na původním webu představujeme stroje TRON a model LAVATRON 50: dvě sací turbíny, nádrž 15 litrů na čisticí roztok a nerezovou 50litrovou nádobu na odsátou vodu. Díky extrakci lze nečistoty uvolnit z vláken a zároveň průběžně odsávat. Používáme vhodné certifikované čisticí prostředky.",
+        "text": "Na čištění koberců a čalounění používáme profesionální extraktory s vysokým sacím výkonem. Pracujeme se stroji TRON, včetně modelu LAVATRON 50 se dvěma sacími turbínami, 15litrovou nádrží na čisticí roztok a nerezovou 50litrovou nádobou na odsátou vodu. Extrakční čištění pomáhá uvolnit nečistoty z vláken a zároveň průběžně odsávat použitý roztok. Používáme vhodné atestované čisticí prostředky.",
         "note": "Při konkrétní zakázce volíme techniku a postup s ohledem na materiál, přístup a stupeň znečištění."
       },
       "ui": {
@@ -891,8 +889,8 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
         "supplierReplyLabel": "Odpověď Aleše Zemana",
         "verifiedLabel": "Ověřeno portálem",
         "sourceLabel": "Zdroj",
-        "sourceNote": "Výňatky jsou přepsané z veřejného profilu včetně původního pravopisu. Ne všechny recenze jsou portálem ověřené.",
-        "referencesNote": "Historický výběr organizací, pro které jsme pracovali.",
+        "sourceNote": "Zákazníci oceňují pečlivou práci, spolehlivou domluvu a férové jednání.",
+        "referencesNote": "Pracujeme pro firmy, školy, instituce i společenství vlastníků jednotek.",
         "pricingServicesTitle": "Služby",
         "pricingTransportTitle": "Doprava",
         "faqTitle": "Časté dotazy",
@@ -952,7 +950,7 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
               "Assessment of pile, material and soiling"
             ],
             "limitations": "Wear, fading and long-standing stains may prevent a like-new result. We discuss realistic expectations before cleaning.",
-            "technique": "We use professional TRON extraction equipment. The original site describes the LAVATRON 50 model with two suction turbines, a 15-litre solution tank and a 50-litre stainless-steel recovery tank.",
+            "technique": "We deep-clean carpets with powerful TRON extractors, including the LAVATRON 50 with two suction turbines, a 15-litre cleaning-solution tank and a 50-litre stainless-steel recovery tank.",
             "recommendedFrequency": "Usually once a year in homes, and once or twice a year in busy offices, corridors and hospitality venues.",
             "serviceContext": "Homes, schools, nurseries, offices, shops, restaurants, hotels and other commercial premises."
           }
@@ -993,7 +991,7 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
               "Specialist nozzle for seams and tight areas"
             ],
             "limitations": "Leather and fabrics whose manufacturers prohibit extraction are excluded. Wear, fading and permanent stains may remain; we explain likely results beforehand.",
-            "technique": "Powerful extraction equipment with a dedicated upholstery nozzle also cleans somewhat beneath the surface. The original website mentions recovery of up to 90% of applied water; actual recovery varies with the fabric and conditions.",
+            "technique": "A high-suction extraction machine with a narrow upholstery nozzle removes dirt from beneath the fabric surface. On suitable materials, up to 90% of the applied water can be recovered; the actual amount depends on the fabric and conditions.",
             "recommendedFrequency": "Frequency depends on use and fabric condition; ask us about stains as soon as possible.",
             "serviceContext": "Homes, offices, chairs, mattresses and suitable textile upholstery."
           }
@@ -1034,7 +1032,7 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
               "Horizontal and vertical blinds when ordered"
             ],
             "limitations": "Pricing counts all washed surfaces including frames. High-level or difficult access requires an individual arrangement.",
-            "technique": "Professional applicators and squeegees. The original site also describes arranging high-level window cleaning using rope-access methods.",
+            "technique": "We use professional applicators and squeegees, adapting our approach to each job. High-level window cleaning using rope-access techniques can also be arranged individually.",
             "recommendedFrequency": "Shopfronts are often cleaned every two weeks or monthly; other schedules are agreed individually.",
             "serviceContext": "Homes, shops, offices, schools, hotels and residential buildings."
           }
@@ -1241,7 +1239,7 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
         },
         {
           "question": "Do you work weekends and public holidays?",
-          "answer": "The original website says yes, without a surcharge; please confirm availability."
+          "answer": "Yes. We also work on weekends and public holidays by arrangement, without a weekend surcharge. We will confirm available dates when you book."
         },
         {
           "question": "How is carpet cleaning priced?",
@@ -1257,7 +1255,7 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
         },
         {
           "question": "Are your prices final?",
-          "answer": "The original site states the business is not VAT-registered and does not charge hidden fees. Travel is extra; reconfirm the final price before booking."
+          "answer": "Yes. We are not VAT-registered and do not charge hidden fees. Travel is charged separately according to the location. We agree the final price before starting work."
         }
       ],
       "references": {
@@ -1439,9 +1437,7 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
           "I have known many of you for a long time. Over the years we have shared more than conversations about cleaning: we have talked about life's joys and difficulties. Some of you have also listened to me and offered help when I needed it. I am deeply grateful for that.",
           "Time passes, but I will continue doing my best to earn your satisfaction and your trust. Thank you for your loyalty, your openness and the personal connections our work has made possible."
         ],
-        "signature": "Aleš Zeman",
-        "sourceUrl": "https://uklidove-firmy-az.estranky.cz/",
-        "editorialNote": "Faithful English adaptation of the personal thank-you on the original website, not a word-for-word transcript."
+        "signature": "Aleš Zeman"
       },
       "personalValues": {
         "title": "What matters to me",
@@ -1476,7 +1472,7 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
           {
             "title": "NejŘemeslníci.cz",
             "url": "https://www.nejremeslnici.cz/profil/19802-ales-zeman",
-            "description": "Customer reference archive"
+            "description": "Customer experiences and ratings"
           }
         ]
       },
@@ -1680,7 +1676,7 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
       },
       "equipment": {
         "title": "Our professional equipment",
-        "text": "For carpets and upholstery we use professional high-suction extraction machines. Our original website describes TRON equipment, including the LAVATRON 50: two suction turbines, a 15-litre solution tank and a 50-litre stainless-steel recovery tank. This method loosens dirt within fibres and extracts used solution continuously. We select appropriate tested cleaning products.",
+        "text": "We use professional high-suction extractors for carpets and upholstery, including TRON machines and the LAVATRON 50 with two suction turbines, a 15-litre cleaning-solution tank and a 50-litre stainless-steel recovery tank. Extraction loosens dirt within fibres and continuously removes the used solution. We use suitable tested cleaning products.",
         "note": "We choose the equipment and procedure based on the material, access and degree of soiling."
       },
       "ui": {
@@ -1720,8 +1716,8 @@ import{n as e,t}from"./rolldown-runtime-CbXtAM7H.js";var n=t((e=>{var t=Symbol.f
         "supplierReplyLabel": "Reply from Aleš Zeman",
         "verifiedLabel": "Verified by platform",
         "sourceLabel": "Source",
-        "sourceNote": "Excerpts are translated from a public profile. Not all reviews are verified by the platform.",
-        "referencesNote": "A historical selection of organisations we have worked for.",
+        "sourceNote": "Customers appreciate careful work, reliable communication and fair service.",
+        "referencesNote": "We serve businesses, schools, institutions and homeowners’ associations.",
         "pricingServicesTitle": "Services",
         "pricingTransportTitle": "Transport",
         "faqTitle": "Frequently asked questions",
